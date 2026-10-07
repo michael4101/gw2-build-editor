@@ -1,0 +1,1081 @@
+Name,Class,Specialisation,Tier,Description
+Zealot's Resolution,Guardian,Zeal,Minor Adept,Cast Lesser Symbol of Resolution when you strike an enemy below the health threshold.
+Wrathful Spirit,Guardian,Zeal,Major Adept,Aegis grants boons when it ends.
+Fiery Wrath,Guardian,Zeal,Major Adept,Deal increased strike damage to burning foes.
+Zealous Scepter,Guardian,Zeal,Major Adept,Gain might when your Virtue skill 1 passive effect triggers; gain more might while wielding a scepter.
+Symbolic Exposure,Guardian,Zeal,Minor Master,Symbols inflict vulnerability on foes. Deal increased strike damage to vulnerable foes.
+Renewing Splendor,Guardian,Zeal,Major Master,Heal yourself when you create a light field or finish a combo in a light field.
+Zealous Blade,Guardian,Zeal,Major Master,Your power is increased. Gain additional power while wielding a greatsword. Your greatsword skills have reduced recharge.
+Kindled Zeal,Guardian,Zeal,Major Master,Gain condition damage based on your power.
+Symbolic Avenger,Guardian,Zeal,Minor Grandmaster,Your strike damage is increased whenever your Symbols hit a foe.
+Eternal Armory,Guardian,Zeal,Major Grandmaster,Spirit Weapons gain additional casts and burn foes with their first strike.
+Shattered Aegis,Guardian,Zeal,Major Grandmaster,"When an aegis you applied blocks an attack, it unleashes a Mystic Rebuke."
+Furious Focus,Guardian,Zeal,Major Grandmaster,Your strike damage and movement speed are increased while you have fury. Create a Lesser Symbol of Blades when you activate Virtue skill 1.
+Justice is Blind,Guardian,Radiance,Minor Adept,Gain a light aura and blind nearby foes when you activate Virtue skill 1.
+Inner Fire,Guardian,Radiance,Major Adept,Gain fury when you strike a foe that has burning stacks over the threshold.
+Right-Hand Strength,Guardian,Radiance,Major Adept,Your precision is increased. Gain increased power while wielding a one-handed weapon in your main hand.
+Healer's Resolution,Guardian,Radiance,Major Adept,Gain resolution when using a heal skill.
+Renewed Justice,Guardian,Radiance,Minor Master,Virtue skill 1 is renewed when you kill a foe.
+Wrath of Justice,Guardian,Radiance,Major Master,Striking an enemy with the damaging effect from Virtue skill 1 casts Lesser Signet of Wrath.
+Radiant Fire,Guardian,Radiance,Major Master,"Zealot's Flame is improved. Burning you inflict has increased duration, and your torch skills gain reduced recharge."
+Retribution,Guardian,Radiance,Major Master,Strike damage dealt is increased while you have resolution.
+Radiant Power,Guardian,Radiance,Minor Grandmaster,Attacks against burning foes have an increased chance to critically hit. Your ferocity is increased.
+Amplified Wrath,Guardian,Radiance,Major Grandmaster,Burning you inflict deals increased damage. Burning duration applied by the passive effect of Virtue skill 1 is increased.
+Perfect Inscriptions,Guardian,Radiance,Major Grandmaster,Signets gain improved passive effects and continue to grant their passive bonuses while recharging.
+Righteous Instincts,Guardian,Radiance,Major Grandmaster,Resolution increases your chances to critically strike and grants might each interval.
+Valorous Defense,Guardian,Valor,Minor Adept,Gain aegis when you are struck while below the health threshold.
+Strength of the Fallen,Guardian,Valor,Major Adept,Lose conditions every interval. Health degenerates more slowly while downed.
+Smiter's Boon,Guardian,Valor,Major Adept,Cast Lesser Smite Condition when you use a healing skill.
+Focus Mastery,Guardian,Valor,Major Adept,Focus skills grant you protection and gain reduced recharge.
+Steadfast Courage,Guardian,Valor,Minor Master,Gain protection when you block an incoming attack with aegis.
+Stalwart Defender,Guardian,Valor,Major Master,"Gain toughness when wielding a shield, and shield skills gain reduced recharge."
+Redemption,Guardian,Valor,Major Master,Cast Lesser Litany of Wrath when you activate Virtue skill 3.
+Communal Defenses,Guardian,Valor,Major Master,Blocking an attack grants aegis to nearby allies.
+Might of the Protector,Guardian,Valor,Minor Grandmaster,Gain might when you block attacks.
+Altruistic Healing,Guardian,Valor,Major Grandmaster,Heal yourself when you grant a boon to an ally.
+Monk's Focus,Guardian,Valor,Major Grandmaster,Meditation skills heal you and grant fury to nearby allies.
+Tenacious Defense,Guardian,Valor,Major Grandmaster,Aegis you grant reduces the recharge time of Virtue skill 3 when it blocks an attack.
+Vigorous Precision,Guardian,Honor,Minor Adept,Gain vigor at the end of your dodge roll.
+Invigorated Bulwark,Guardian,Honor,Major Adept,Increase your healing to other allies each time you block an attack. Mace skills gain reduced recharge and their boons gain increased duration.
+Protective Reviver,Guardian,Honor,Major Adept,Cast Lesser Shield of Absorption when you begin reviving an ally. Shield of Absorption revives allies when it detonates.
+Protector's Restoration,Guardian,Honor,Major Adept,Cast Lesser Symbol of Protection when you use a healing skill.
+Selfless Daring,Guardian,Honor,Minor Master,The end of your dodge roll heals nearby allies.
+Honorable Staff,Guardian,Honor,Major Master,Gain concentration. Empower now grants endurance to allies in addition to its effects. Staff skills recharge time is reduced.
+Pure of Heart,Guardian,Honor,Major Master,Aegis heals when it blocks an attack.
+Empowering Might,Guardian,Honor,Major Master,Grant might to nearby allies when you critically strike.
+Purity of Body,Guardian,Honor,Minor Grandmaster,Your Virtue skill 2 passive also regenerates endurance.
+Pure of Voice,Guardian,Honor,Major Grandmaster,Shout skills convert conditions to boons on allies.
+Writ of Persistence,Guardian,Honor,Major Grandmaster,Symbols are improved and heal allies.
+Force of Will,Guardian,Honor,Major Grandmaster,Gain increased vitality. Healing others is improved based on a percentage of your vitality.
+Inspired Virtue,Guardian,Virtues,Minor Adept,Virtues apply boons to allies when activated. Deal increased strike damage for each boon on you.
+Unscathed Contender,Guardian,Virtues,Major Adept,Strike damage dealt is increased while you have aegis. Strike damage dealt is increased while you are above the health threshold.
+Resolute Subconscious,Guardian,Virtues,Major Adept,"Gain resolution and aegis when disabled. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Master of Consecrations,Guardian,Virtues,Major Adept,Consecrations gain increased duration.
+Virtue of Resolution,Guardian,Virtues,Minor Master,Gain resolution when you activate a Virtue. Resolution you grant has increased duration.
+Inspiring Virtue,Guardian,Virtues,Major Master,Strike damage dealt is increased after activating a virtue.
+Absolute Resolve,Guardian,Virtues,Major Master,Activating Virtue skill 2 removes conditions from nearby allies. Virtue skill 2's passive effect is stronger.
+Glacial Heart,Guardian,Virtues,Major Master,"Mighty Blow becomes Glacial Blow. Heal when you disable, immobilize, or chill a foe. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Power of the Virtuous,Guardian,Virtues,Minor Grandmaster,Gain condition damage based on your vitality. Virtues gain reduced recharge.
+Permeating Wrath,Guardian,Virtues,Major Grandmaster,The passive effect of Virtue skill 1 triggers more quickly and now burns in an area.
+Battle Presence,Guardian,Virtues,Major Grandmaster,Nearby allies gain the passive effect of Virtue skill 2. Willbender: Heal allies when your Resolve effect triggers.
+Indomitable Courage,Guardian,Virtues,Major Grandmaster,The active effect of Virtue skill 3 breaks stun and grants stability to nearby allies. Its passive effect gains a shorter interval.
+Longbow Proficiency,Guardian,Dragonhunter,Minor Proficiency,You can wield a longbow.
+Virtuous Action,Guardian,Dragonhunter,Minor Adept,"The guardian 's resolve has further increased, allowing Virtues to be manifested as physical aspects. Gain access to Traps."
+Hunter's Premonition,Guardian,Dragonhunter,Major Adept,Traps skills grant aegis when used.
+Dulled Senses,Guardian,Dragonhunter,Major Adept,"Cripple enemies that you disable. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Soaring Devastation,Guardian,Dragonhunter,Major Adept,Wings of Resolve delivers an attack upon landing. Movement speed is increased.
+Defender's Dogma,Guardian,Dragonhunter,Minor Master,Gain vitality. Blocking an attack causes justice to reach its maximum charge and reduces the cooldown of Spear of Justice.
+Hunter's Determination,Guardian,Dragonhunter,Major Master,Activating your elite skill breaks stuns and grants you endurance.
+Zealot's Aggression,Guardian,Dragonhunter,Major Master,Deal increased strike damage to crippled foes. Justice's passive effect cripples enemies.
+Bulwark,Guardian,Dragonhunter,Major Master,Shield of Courage gains increased radius and duration.
+Pure of Sight,Guardian,Dragonhunter,Minor Grandmaster,Deal bonus strike damage based on your distance to the enemy.
+Hunter's Fortification,Guardian,Dragonhunter,Major Grandmaster,Remove conditions and heal when blocking or evading attacks. Block and evade triggers have separate cooldowns.
+Heavy Light,Guardian,Dragonhunter,Major Grandmaster,"Gain stability when disabling an enemy. Deal increased strike damage to disabled, exposed, or defiant foes. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Big Game Hunter,Guardian,Dragonhunter,Major Grandmaster,Striking an enemy tethered by your Spear of Justice inflicts vulnerability and increases strike damage dealt. Tether duration is increased.
+Axe Proficiency,Guardian,Firebrand,Minor Proficiency,You can wield axes.
+Purity of Word,Guardian,Firebrand,Minor Adept,"Gain knowledge of Elonian lore, igniting a fierce drive to purge corruption and manifesting your Virtues as mystic tomes. Gain access to Mantras. Using Tome skills consumes pages. You regenerate pages every interval."
+Unrelenting Criticism,Guardian,Firebrand,Major Adept,Axe skills gain a chance to inflict bleeding.
+Liberator's Vow,Guardian,Firebrand,Major Adept,Grant allies quickness when you use your heal skill.
+Archivist of Whispers,Guardian,Firebrand,Major Adept,Your Virtues gain additional pages.
+Swift Scholar,Guardian,Firebrand,Minor Master,Equipping a Virtue grants you quickness. Every third Tome skill grants you pages. Stacks reset when exiting a tome. Quickness can only be gained once per interval
+Weighty Terms,Guardian,Firebrand,Major Master,The final charge of your Mantra skills will slow nearby foes and grant you pages.
+Stalwart Speed,Guardian,Firebrand,Major Master,"When you grant aegis or stability, grant quickness. This can affect multiple targets simultaneously."
+Legendary Lore,Guardian,Firebrand,Major Master,Tome skills gain bonuses from scribbling in the margins by ancient bards.
+Imbued Haste,Guardian,Firebrand,Minor Grandmaster,Gain increased attributes while affected by quickness.
+Stoic Demeanor,Guardian,Firebrand,Major Grandmaster,"Retain Courage passive while it is on cooldown. Grant boons to nearby allies when you disable, immobilize, or slow an enemy. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Quickfire,Guardian,Firebrand,Major Grandmaster,Retain Justice passive while it is on cooldown. Granting quickness to an ally also grants Ashes of the Just.
+Loremaster,Guardian,Firebrand,Major Grandmaster,Retain Resolve passive while it is on cooldown. You generate pages more quickly.
+Sword Proficiency,Guardian,Willbender,Minor Proficiency,You can wield swords in your off-hand.
+Willbender Training,Guardian,Willbender,Minor Adept,"The guardian 's Virtues are now movement based, giving them a swift advantage in combat. Gain access to the Physical skill type."
+Searing Pact,Guardian,Willbender,Major Adept,Gain condition damage. Willbender Flames now inflict burning on foes they strike.
+Power for Power,Guardian,Willbender,Major Adept,Gain increased power. Willbender Flames deal increased damage to foes they strike.
+Conceited Curate,Guardian,Willbender,Major Adept,Gain increased vitality. Willbender Flames now heal you when they strike an enemy.
+Righteous Sprint,Guardian,Willbender,Minor Master,Gain increased movement speed. Gain swiftness when you activate a virtue.
+Restorative Virtues,Guardian,Willbender,Major Master,Triggered virtue effects reduce the cooldown of active weapon abilities. Gain vigor when activating Flowing Resolve.
+Holy Reckoning,Guardian,Willbender,Major Master,Triggered virtue effects now grant might to allies in addition to their bonuses. Gain fury when activating Rushing Justice.
+Vanguard Tactics,Guardian,Willbender,Major Master,Activating Courage grants resistance. Shadowstepping grants resolution and protection.
+Lethal Tempo,Guardian,Willbender,Minor Grandmaster,"Each time you activate a virtue or your virtue's passives are triggered, gain a damage bonus. Gaining stacks of this boon refreshes other stacks."
+Phoenix Protocol,Guardian,Willbender,Major Grandmaster,"Gain boons when resolve 's effect triggers, but you no longer heal. Resolve has a modified duration. Gain boons when you use Flowing Resolve."
+Tyrant's Momentum,Guardian,Willbender,Major Grandmaster,"Lethal Tempo grants increased damage, but has reduced duration. Justice 's duration is modified."
+Deathless Courage,Guardian,Willbender,Major Grandmaster,"While Courage is active, incoming strike damage and condition damage is reduced."
+Luminary,Guardian,Luminary,Minor Adept,Harness light and flame to bolster yourself and allies or disrupt your enemies. Gain access to Radiant Forge and Stance skills.
+Shimmering Stances,Guardian,Luminary,Major Adept,Stances grant protection to affected allies and blind affected enemies.
+Resolute Blessing,Guardian,Luminary,Major Adept,Luminary's Blessing now also reduces incoming condition damage.
+Persistent Blessing,Guardian,Luminary,Major Adept,Refresh the duration of your Luminary's Blessing and trigger its healing when you exit Radiant Forge.
+Light's Gift,Guardian,Luminary,Minor Master,Gain vitality. Grant Luminary's Blessing to allies when you equip a radiant weapon.
+Resplendent Weaponry,Guardian,Luminary,Major Master,Grant boons to nearby allies when you equip a radiant weapon.
+Purging Light,Guardian,Luminary,Major Master,Remove conditions from nearby allies when you grant yourself light aura.  Gain light aura when you use a healing skill.
+Empowered Armaments,Guardian,Luminary,Major Master,Gain increased strike damage when you equip a radiant weapon.
+Radiant Armaments,Guardian,Luminary,Minor Grandmaster,Gain a bonus based on your equipped radiant weapon. This bonus lingers for a period of time after exiting Radiant Forge.
+Illuminating Inspiration,Guardian,Luminary,Major Grandmaster,Reduce the recharge of your virtue skills when you equip a radiant weapon.
+Sovereign of Light,Guardian,Luminary,Major Grandmaster,"Gain light aura when entering Radiant Forge. Luminary skills detonate light aura, damaging enemies and healing allies."
+Master-at-Arms,Guardian,Luminary,Major Grandmaster,"Using a virtue skill recharges radiant weapon skills. Justice recharges hammer, Resolve recharges staff, and Courage recharges sword and shield."
+Invoking Torment,Revenant,Corruption,Minor Adept,Release a burst of torment energy when you switch legends.
+Acolyte of Torment,Revenant,Corruption,Major Adept,Torment deals increased damage.
+Demonic Defiance,Revenant,Corruption,Major Adept,Gain resistance and remove a damaging condition when you use a Legendary Demon skill.
+Replenishing Despair,Revenant,Corruption,Major Adept,Siphon health from nearby enemies when you gain a dark aura. Siphon healing is reduced for each target struck beyond the first.
+Seething Malice,Revenant,Corruption,Minor Master,Your condition damage is increased.
+Abyssal Chill,Revenant,Corruption,Major Master,"When you chill a foe, you also inflict torment on them."
+Demonic Resistance,Revenant,Corruption,Major Master,Incoming strike damage is reduced while you have resistance on you.
+Pact of Pain,Revenant,Corruption,Major Master,"Conditions you apply to foes last longer, but conditions applied to you also last longer."
+Yearning Empowerment,Revenant,Corruption,Minor Grandmaster,Damaging conditions you apply last longer.
+Diabolic Inferno,Revenant,Corruption,Major Grandmaster,Invoke Torment applies poison and burning.
+Fiendish Tenacity,Revenant,Corruption,Major Grandmaster,Invoke Torment grants resistance. Resistance heals you every interval.
+Permeating Pestilence,Revenant,Corruption,Major Grandmaster,Invoke Torment transfers conditions from you onto foes.
+Enduring Recovery,Revenant,Retribution,Minor Adept,Gain increased endurance recovery.
+Planar Protection,Revenant,Retribution,Major Adept,Cast Dome of the Mists when you use a healing skill.
+Close Quarters,Revenant,Retribution,Major Adept,Reduce strike damage dealt to you from foes beyond the range threshold.
+Spiritual Reckoning,Revenant,Retribution,Major Adept,Gain resolution when you use invoke a legend.
+Unwavering Avoidance,Revenant,Retribution,Minor Master,Gain vigor when successfully evading an attack.
+Set in Stone,Revenant,Retribution,Major Master,Gain protection when you use your profession skill 2. This trait affects True Nature when you are a herald.
+Resolute Evasion,Revenant,Retribution,Major Master,Gain resolution after you dodge.
+Dwarven Battle Training,Revenant,Retribution,Major Master,"Deal increased strike damage to weakened foes. Disabling a foe applies weakness. Disables include stun, daze, knockback, pull, knockdown, sink, float, fear, taunt, and launch."
+Determined Resolution,Revenant,Retribution,Minor Grandmaster,Strike damage taken is reduced by a percentage while you have resolution.
+Vicious Reprisal,Revenant,Retribution,Major Grandmaster,"While you have resolution, all damage dealt is increased, and you gain might when you strike foes. Resolution granted to you lasts longer."
+Versed in Stone,Revenant,Retribution,Major Grandmaster,"Rite of the Great Dwarf reduces damage by an additional amound. When struck below the health threshold, cast Rite of the Great Dwarf. Gain power based on your toughness."
+Steadfast Rejuvenation,Revenant,Retribution,Major Grandmaster,Heal every second for each point of upkeep currently in use.
+Healer's Gift,Revenant,Salvation,Minor Adept,The end of your dodge roll heals nearby allies.
+Invoking Harmony,Revenant,Salvation,Major Adept,Healing done to other allies is increased for a short duration after invoking a legend.
+Blinding Truths,Revenant,Salvation,Major Adept,Blind nearby foes when you use a healing skill.
+Eluding Nullification,Revenant,Salvation,Major Adept,The end of your dodge roll removes a condition from nearby allies.
+Life Attunement,Revenant,Salvation,Minor Master,Gain healing power. Gain concentration based on a portion of your healing power.
+Words of Censure,Revenant,Salvation,Major Master,"Blinding, immobilizing, or affecting a foe with crowd control heals nearby allies. Skills that strike many foes at the same time can heal multiple times."
+Resilient Spirit,Revenant,Salvation,Major Master,Periodically gain barrier for each unique boon you have.
+Fortified Blessing,Revenant,Salvation,Major Master,Grant protection when you remove a condition from an ally.
+Serene Rejuvenation,Revenant,Salvation,Minor Grandmaster,Increase healing to other allies. Legendary Centaur skills apply boons in an area.
+Generous Abundance,Revenant,Salvation,Major Grandmaster,Heal allies around yourself when using a Legend skill. Heal allies around Ventari's Tablet when using a Legendary Centaur skill. Dragon Facet skills and Ventari's Will cannot activate this trait.
+Unyielding Devotion,Revenant,Salvation,Major Grandmaster,Take reduced strike damage for a duration after healing. Lasts longer if you heal an ally other than yourself.
+Invigorating Dismissal,Revenant,Salvation,Major Grandmaster,Grant endurance when you remove a condition from an ally.
+Invoker's Rage,Revenant,Invocation,Minor Adept,Gain fury when you invoke a legend.
+Cleansing Channel,Revenant,Invocation,Major Adept,Invoking a legend removes a condition.
+Rising Tide,Revenant,Invocation,Major Adept,"While your health is above the threshold, strike damage dealt is increased."
+Glaring Resolve,Revenant,Invocation,Major Adept,Gain stability and heal yourself when you break stuns.
+Ferocious Aggression,Revenant,Invocation,Minor Master,All damage dealt is increased while you have fury.
+Spirit Boon,Revenant,Invocation,Major Master,Invoking a legend grants boons to nearby allies based on the legend that was invoked.
+Rapid Flow,Revenant,Invocation,Major Master,Heal yourself and gain swiftness when you use a skill that has an energy cost.
+Incensed Response,Revenant,Invocation,Major Master,Gain might when you grant yourself fury.
+Contained Temper,Revenant,Invocation,Minor Grandmaster,Gain energy when you break stun.
+Song of the Mists,Revenant,Invocation,Major Grandmaster,Invoking a legend casts a skill based on the legend you invoked. Invoking Razah casts the skill associated with the legend you have equipped in your other slot instead.
+Charged Mists,Revenant,Invocation,Major Grandmaster,Invoking a legend while at or below the energy threshold grants extra energy to your new legend.
+Roiling Mists,Revenant,Invocation,Major Grandmaster,Critical-hit chance is further increased while you are under the effect of fury. Convert a percentage of your outgoing critical strike damage into healing.
+Expose Defenses,Revenant,Devastation,Minor Adept,Your first attack when entering combat applies vulnerability. This ability is refreshed when you use an elite skill.
+Aggressive Arrival,Revenant,Devastation,Major Adept,Gain resistance when you invoke a legend.
+Unsuspecting Strikes,Revenant,Devastation,Major Adept,Deal increased strike damage to foes with health above the health threshold.
+Battle Scarred,Revenant,Devastation,Major Adept,Siphon health after using your healing skill.
+Destructive Impulses,Revenant,Devastation,Minor Master,"All damage dealt is increased, and increased additionally if you have an off-hand weapon equipped."
+Assassin's Presence,Revenant,Devastation,Major Master,"While you are in combat, grant fury to yourself and nearby allies each interval."
+Notoriety,Revenant,Devastation,Major Master,Might grants you more power and less condition damage. Gain might when using a legendary stance skill.
+Thrill of Combat,Revenant,Devastation,Major Master,Gain stacks of Battle Scars while in combat.
+Targeted Destruction,Revenant,Devastation,Minor Grandmaster,Deal increased strike damage to targets based on their vulnerability stacks.
+Brutality,Revenant,Devastation,Major Grandmaster,Gain quickness when you swap weapons. Deal increased damage to foes with stability or protection.
+Swift Termination,Revenant,Devastation,Major Grandmaster,Deal increased strike damage to foes below the health threshold.
+Dance of Death,Revenant,Devastation,Major Grandmaster,Applying vulnerability to foes grants stacks of Battle Scars. The healing from Battle Scars is increased while you are below the health threshold.
+Shield Proficiency,Revenant,Herald,Minor Proficiency,You can wield shields in your off hand.
+Crystal Harbinger,Revenant,Herald,Minor Adept,You can now use Legendary Dragon skills and gain access to Facet of Nature.
+Elder's Respite,Revenant,Herald,Major Adept,Regeneration heals for more. Gain regeneration when struck while below the health threshold.
+Core Value,Revenant,Herald,Major Adept,Improve the effects of the True Nature skill.
+Rising Momentum,Revenant,Herald,Major Adept,Gain increased movement speed for each point of upkeep currently in use.
+Draconic Fortitude,Revenant,Herald,Minor Master,Gain increased maximum health.
+Shared Empowerment,Revenant,Herald,Major Master,"When applying a boon to an ally, also apply might to nearby allies."
+Shining Aspects,Revenant,Herald,Major Master,Using a consume skill heals you.
+Hardening Persistence,Revenant,Herald,Major Master,Strike damage taken is reduced for each point of upkeep currently in use. Shield skills remove conditions.
+Reinforced Potency,Revenant,Herald,Minor Grandmaster,Gain concentration and deal increased strike damage for each active boon you have.
+Elevated Compassion,Revenant,Herald,Major Grandmaster,Heal allies when you grant them boons. Grant boons to allies when your upkeep cost is equal to or higher than the threshold. An ally can only be affected by this skill once per interval.
+Draconic Echo,Revenant,Herald,Major Grandmaster,You retain your facet passives for a duration after using their consume skills. Your facet passives grant you additional bonuses.
+Forceful Persistence,Revenant,Herald,Major Grandmaster,Deal increased strike damage with active upkeep skills. Herald and weapon upkeep skills grant less damage but can be stacked.
+Short Bow Proficiency,Revenant,Renegade,Minor Proficiency,You can wield short bows.
+Ambush Commander,Revenant,Renegade,Minor Adept,"When you critically strike, or attack your enemies from behind or their flanks, or strike a defiant foe, you'll inspire yourself with Kalla's fervor. Gain access to Citadel Order abilities."
+Ashen Demeanor,Revenant,Renegade,Major Adept,"Gain might, resistance, and Kalla's Fervor when you use a healing skill."
+Blood Fury,Revenant,Renegade,Major Adept,Fury increases the duration of bleeds you inflict. Gaining fury inspires you with Kalla's Fervor.
+Wrought-Iron Will,Revenant,Renegade,Major Adept,Evading an attack inspires you with Kalla's Fervor and grants boons to nearby allies.
+Endless Enmity,Revenant,Renegade,Minor Master,Grant fury to yourself and nearby allies when you critically strike a foe.
+Bold Reversal,Revenant,Renegade,Major Master,Your Citadel Order skills are improved.
+Heartpiercer,Revenant,Renegade,Major Master,Bleeding you inflict deals more damage. Deal increased strike damage to bleeding foes.
+All for One,Revenant,Renegade,Major Master,"When you trigger Band Together, gain energy and reduce the recharge of the enhanced skill."
+Brutal Momentum,Revenant,Renegade,Minor Grandmaster,Gain increased critical-hit chance. This bonus is increased further while your endurance is full. Gain vigor when you gain fury.
+Vindication,Revenant,Renegade,Major Grandmaster,Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment dazes enemies the first time that it strikes them.
+Lasting Legacy,Revenant,Renegade,Major Grandmaster,Kalla's Fervor you inspire lasts longer and is more potent. Heroic Command grants more might per stack of Kalla's Fervor.
+Righteous Rebel,Revenant,Renegade,Major Grandmaster,"Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer, heals allies, and affects a larger area."
+Greatsword Proficiency,Revenant,Vindicator,Minor Proficiency,You can wield greatswords.
+Tenacious Ruin,Revenant,Vindicator,Minor Adept,"Instead of dodging, deliver a powerful blow from above, striking foes when you hit the ground."
+Leviathan Strength,Revenant,Vindicator,Major Adept,Deal increased damage while your endurance is not full.
+Amnesty of Shing Jea,Revenant,Vindicator,Major Adept,Legendary Alliance abilities gain an additional bonus. Activating Energy Meld or Alliance Tactics grants both of these bonuses simultaneously at greater amounts to nearby allies. Kurzick abilities grant regeneration. Luxon abilities grant might.
+Redemptor's Sermon,Revenant,Vindicator,Major Adept,"When you use a healing skill, heal allies in the area and grant them protection."
+Balance in Discord,Revenant,Vindicator,Minor Master,Gain health and boons when swapping legends or by using Alliance Tactics while attuned to the Legendary Alliance.
+Reaver's Curse,Revenant,Vindicator,Major Master,Energy Meld 's cooldown is reduced and it increases the effectiveness of your next dodge.
+Angsiyan's Trust,Revenant,Vindicator,Major Master,Energy Meld no longer has an energy cost and grants energy when used in combat.
+Song of Arboreum,Revenant,Vindicator,Major Master,Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.
+Empire Divided,Revenant,Vindicator,Minor Grandmaster,Gain increased power while above the health threshold. Gain increased healing power while below it.
+Forerunner of Death,Revenant,Vindicator,Major Grandmaster,Dodging now deals more damage but affects a smaller area. Outgoing strike damage is increased for a period of time upon impact.
+Vassals of the Empire,Revenant,Vindicator,Major Grandmaster,Dodging now grants boons to allies and strikes foes when landing.
+Saint of zu Heltzer,Revenant,Vindicator,Major Grandmaster,The affected area of your dodge is increased. You now heal allies in an area when you land instead of dealing damage. Outgoing healing is increased for a period of time upon landing.
+Enigmatic Connection,Revenant,Conduit,Minor Adept,"Gain access to Release Potential, Cosmic Wisdom, and Legendary Entity Stance. The effects of Release Potential and Cosmic Wisdom change depending on which legend you are currently invoking. Gain affinity while using legend skills, which increases the effectiveness of Release Potential. Gain additional affinity when using legend skills above the threshold and while channeling an upkeep skill."
+Conductive Armaments,Revenant,Conduit,Major Adept,Gain affinity when using a weapon skill that costs energy.
+Shared Wisdom,Revenant,Conduit,Major Adept,"Grant boons to allies whenever you use a Legendary Entity Skill, depending on which skill was used."
+Lingering Determination,Revenant,Conduit,Major Adept,Gain affinity when you invoke a different legend.
+Bolstered Bonds,Revenant,Conduit,Minor Master,Gain attributes based on your equipped legends. Those attributes are increased further when Cosmic Wisdom is active.
+Kinetic Insight,Revenant,Conduit,Major Master,"The recharge of Release Potential skills is reduced. The effectiveness of Release Potential skills are [ sic ] increased as if you had two additional points of affinity, up to a maximum of five."
+Expanded Consciousness,Revenant,Conduit,Major Master,"Heal and gain endurance whenever you gain affinity. Additionally, gain energy when you reach maximum affinity."
+Ethereal Purification,Revenant,Conduit,Major Master,Lose conditions when activating Cosmic Wisdom and at a set interval while Cosmic Wisdom is active.
+Numinous Gift,Revenant,Conduit,Minor Grandmaster,"The third minor traits of other specializations you equip have improved effectiveness. Gain might and additional boons when you use Cosmic Wisdom, depending on which legends you have equipped."
+Mistfire,Revenant,Conduit,Major Grandmaster,Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.
+Enhanced Embodiment,Revenant,Conduit,Major Grandmaster,Reduce the recharge of invoking legends in combat. Invoking legends while Cosmic Wisdom is active extends its duration.
+Found Purpose,Revenant,Conduit,Major Grandmaster,"Trigger the active portion of Numinous Gift when you invoke a legend while in combat. Triggering Numinous Gift grants boons to allies in an area around you, depending on which legends you have equipped."
+Reckless Dodge,Warrior,Strength,Minor Adept,Damage foes at the end of a dodge roll.
+Brave Stride,Warrior,Strength,Major Adept,Movement skills grant boons and adrenaline when used.
+Restorative Strength,Warrior,Strength,Major Adept,Using a heal skill grants might.
+Peak Performance,Warrior,Strength,Major Adept,Deal increased strike damage. Physical skills further increase all outgoing strike damage for a period of time.
+Building Momentum,Warrior,Strength,Minor Master,Burst skills restore endurance on hit.
+Body Blow,Warrior,Strength,Major Master,"Stuns, dazes, knockbacks, pulls, pushes, and launches inflict vulnerability and weakness."
+Forceful Greatsword,Warrior,Strength,Major Master,Gain power and a chance to gain might on critical strike. Double these bonuses while wielding a greatsword or underwater spear. Greatsword and underwater spear skills recharge faster.
+Great Fortitude,Warrior,Strength,Major Master,Gain vitality and ferocity based on a percentage of your power.
+Pinnacle of Strength,Warrior,Strength,Minor Grandmaster,Might applied to you grants more power. Your critical-hit chance is increased.
+Berserker's Power,Warrior,Strength,Major Grandmaster,Gain increased strike damage when you use a burst skill; this damage increase is based on your adrenaline.
+Might Makes Right,Warrior,Strength,Major Grandmaster,Gain health and endurance whenever you apply might to yourself.
+Aggressive Onslaught,Warrior,Strength,Major Grandmaster,"Gain quickness when you disable an enemy. While you have quickness, your movement speed is increased. This stacks with other movement speed increases."
+Furious Burst,Warrior,Arms,Minor Adept,Gain fury when you swap weapons. Fury gives an increased critical chance.
+Wounding Precision,Warrior,Arms,Major Adept,Gain expertise based on your precision.
+Signet Mastery,Warrior,Arms,Major Adept,Signets grant a stacking ferocity boon on use. Cast Lesser Signet of Might when striking a foe below the health threshold.
+Opportunist,Warrior,Arms,Major Adept,Gain fury and adrenaline when you immobilize or disable a foe.
+Deep Strikes,Warrior,Arms,Minor Master,Gain condition damage when you have fury. You have increased chance to critically strike against bleeding foes.
+Unsuspecting Foe,Warrior,Arms,Major Master,"Increased critical-hit chance against disabled or defiant foes. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Sundering Burst,Warrior,Arms,Major Master,Burst skills inflict vulnerability if they hit and inflict additional vulnerability if the attack is a critical hit. Can only occur once per interval per target for multihit burst skills.
+Blademaster,Warrior,Arms,Major Master,Gain expertise. Gain condition damage while wielding a sword. Sword skills gain reduced recharge.
+Bloodlust,Warrior,Arms,Minor Grandmaster,"You have a chance to inflict bleeding on critical hits, and bleeds that you apply last longer."
+Burst Precision,Warrior,Arms,Major Grandmaster,Burst skills have an increased critical chance. Gain bonus critical-hit chance and ferocity for a duration when you hit with a burst skill. Duration is based on adrenaline spent.
+Furious,Warrior,Arms,Major Grandmaster,Critical hits grant bonus adrenaline and gain a stacking condition damage effect.
+Dual Wielding,Warrior,Arms,Major Grandmaster,Attack speed is increased when wielding a main-hand weapon in your offhand. Heal when you critically strike a foe while wielding a main-hand weapon in your off hand. This heal is increased when critically striking a bleeding foe.
+Thick Skin,Warrior,Defense,Minor Adept,Gain protection when you use a healing skill.
+Shield Master,Warrior,Defense,Major Adept,Reflect missiles whenever you are blocking. Gain adrenaline when you block an attack or reflect a missile.
+Dogged March,Warrior,Defense,Major Adept,Reduce the duration of movement-impeding conditions and gain regeneration when you are affected by one of these conditions.
+Cull the Weak,Warrior,Defense,Major Adept,Deal increased strike damage to weakened foes. Burst skills inflict weakness. Can only occur once per interval per target for multihit burst skills.
+Adrenal Health,Warrior,Defense,Minor Master,Gain health based on adrenaline spent.
+Defy Pain,Warrior,Defense,Major Master,Cast Lesser Endure Pain when you use an elite skill.
+Resilient Roll,Warrior,Defense,Major Master,Gain resistance when you dodge.
+Merciless Hammer,Warrior,Defense,Major Master,"Hammer and mace skills deal increased damage when striking a disabled or defiant foe. Gain adrenaline when you disable a foe. Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch."
+Hardened Armor,Warrior,Defense,Minor Grandmaster,Gain resolution when you block or are struck by a critical hit. Strike damage taken is reduced by a percentage while you have resolution.
+Last Stand,Warrior,Defense,Major Grandmaster,"Stances grant vigor and barrier when activated, and they have increased duration."
+Cleansing Ire,Warrior,Defense,Major Grandmaster,"Gain adrenaline when hit. Remove a condition when you hit with a burst skill, then remove an additional condition for every bar of adrenaline spent."
+Stalwart Strength,Warrior,Defense,Major Grandmaster,Gain stability when you disable a foe. Deal increased strike damage while you have stability.
+Marching Orders,Warrior,Tactics,Minor Adept,Periodically gain Soldier's Focus. Hitting with a burst skill expends Soldier's Focus to grant might to nearby allies.
+Leg Specialist,Warrior,Tactics,Major Adept,Immobilize a target when you cripple them with a skill. Deal increased strike damage to foes affected with movement-impairing conditions.
+Soldier's Comfort,Warrior,Tactics,Major Adept,Soldier's Focus heals affected allies and grants them protection.
+Roaring Reveille,Warrior,Tactics,Major Adept,Warhorn skills apply additional boons. Your concentration is increased.
+Empowered,Warrior,Tactics,Minor Master,Deal increased strike damage for every boon on you.
+Warrior's Cunning,Warrior,Tactics,Major Master,Deal increased strike damage to foes above the health threshold. Also deal more damage to foes with barrier. Damage bonuses do not stack.
+Shrug It Off,Warrior,Tactics,Major Master,"Use ""Shake It Off!"" when you use a healing skill. Removing a damaging condition from an ally heals them."
+Empower Allies,Warrior,Tactics,Major Master,"While you are in combat, grant might to yourself and nearby allies each interval."
+Mending Might,Warrior,Tactics,Minor Grandmaster,Applying might to an ally heals you.
+Martial Cadence,Warrior,Tactics,Major Grandmaster,Soldier's Focus grants boons to affected allies and removes conditions from them. Refresh Soldier's Focus when you swap weapons.
+Vigorous Shouts,Warrior,Tactics,Major Grandmaster,Shout skills heal allies. Gain healing power based on your power.
+Phalanx Strength,Warrior,Tactics,Major Grandmaster,"When you grant yourself might, grant it to nearby allies as well."
+Versatile Rage,Warrior,Discipline,Minor Adept,Gain adrenaline on weapon swap.
+Crack Shot,Warrior,Discipline,Major Adept,"Your longbow, rifle, and harpoon gun weapon skill 1 attacks are enhanced."
+Warrior's Sprint,Warrior,Discipline,Major Adept,"Run faster while wielding melee weapons, and deal increased strike damage while you have swiftness. Movement skills break immobilization when used."
+Stalwart Focus,Warrior,Discipline,Major Adept,Increase your incoming healing effectiveness and healing to other allies.
+Fast Hands,Warrior,Discipline,Minor Master,Gain swiftness when swapping weapons in combat.
+Doubled Standards,Warrior,Discipline,Major Master,Banners grant resolution to allies when they are dropped. Pulsing boons applied through banners last longer.
+Destruction of the Empowered,Warrior,Discipline,Major Master,Deal increased strike damage per boon on your target.
+Brawler's Recovery,Warrior,Discipline,Major Master,Remove conditions when you swap weapons.
+Versatile Power,Warrior,Discipline,Minor Grandmaster,Gain might on weapon swap. Burst skills gain reduced recharge.
+Axe Mastery,Warrior,Discipline,Major Grandmaster,Gain ferocity. Gain additional ferocity when wielding an axe. Axe skills gain reduced recharge and grant adrenaline when critically striking.
+Heightened Focus,Warrior,Discipline,Major Grandmaster,"Gain quickness and recharge your Burst skills when you strike a foe that is below the health threshold. Gain increased outgoing healing when you strike with a Burst skill, based on adrenaline spent."
+Burst Mastery,Warrior,Discipline,Major Grandmaster,"Burst skills deal more damage, grant swiftness, and restore a portion of adrenaline spent."
+Berserk,Warrior,Berserker,F2,
+Arc Divider,Warrior,Berserker,F1,0.75 ¾
+Rupturing Smash,Warrior,Berserker,F1,0.75 ¾
+Scorched Earth,Warrior,Berserker,F1,0.5 ½
+Gun Flame,Warrior,Berserker,F1,0.75 ¾
+Rampart Splitter,Warrior,Berserker,F1,0.5 ½
+Wild Throw,Warrior,Berserker,F1,1 0.75 ¾
+Decapitate,Warrior,Berserker,F1,0.75 ¾
+Slicing Maelstrom,Warrior,Berserker,F1,0.5 ½
+Skull Grinder,Warrior,Berserker,F1,0.5 ½
+Flaming Flurry,Warrior,Berserker,F1,2
+Burning Shackles,Warrior,Berserker,F1,1 0.75 ¾
+Wild Whirl,Warrior,Berserker,F1,0.75 ¾
+Torch Proficiency,Warrior,Berserker,Minor Proficiency,You can wield torches in your off hand.
+Primal Rage,Warrior,Berserker,Minor Adept,Gain access to berserk mode and primal bursts.
+Smash Brawler,Warrior,Berserker,Major Adept,"When you hit with a Primal Burst skill, extend the duration of your berserk. Critical-hit chance is increased while berserk."
+Last Blaze,Warrior,Berserker,Major Adept,"When you use a rage skill, inflict burning on nearby enemies. [ sic ] Rage skills extend berserk longer."
+Savage Instinct,Warrior,Berserker,Major Adept,Activating berserk mode breaks stuns and reduces incoming damage.
+Burst of Aggression,Warrior,Berserker,Minor Master,Gain a burst of speed when entering berserk mode.
+Blood Reaction,Warrior,Berserker,Major Master,A percentage of precision is given as a bonus to ferocity and a percentage of power is given as a bonus to condition damage. These bonuses are doubled in berserk mode.
+Heat the Soul,Warrior,Berserker,Major Master,Grant boons to nearby allies when you use a Burst skill.
+Dead or Alive,Warrior,Berserker,Major Master,Heal yourself and gain Blood Reckoning when entering berserk mode.
+Fatal Frenzy,Warrior,Berserker,Minor Grandmaster,Berserk mode increases power and condition damage.
+Bloody Roar,Warrior,Berserker,Major Grandmaster,Deal increased strike damage while in berserk mode. Gain resistance when entering berserk mode.
+King of Fires,Warrior,Berserker,Major Grandmaster,"Increase the duration of burning you apply. Gain fire aura when you critically hit an enemy. Berserker skills detonate fire aura, damaging and burning nearby foes."
+Eternal Champion,Warrior,Berserker,Major Grandmaster,Gain stability and endurance when entering berserk mode. Traits that trigger when entering berserk mode also trigger when exiting berserk mode. You can now exit berserk mode early.
+Full Counter,Warrior,Spellbreaker,F2,8
+Dagger Proficiency,Warrior,Spellbreaker,Minor Proficiency,You can wield daggers in both hands.
+Spellbreaker's Conviction,Warrior,Spellbreaker,Minor Adept,"Maximum adrenaline is capped at 2 bars, and only level 1 bursts are available. Gain access to the Full Counter burst and Meditation skills."
+Pure Strike,Warrior,Spellbreaker,Major Adept,Deal increased critical-hit damage. This bonus is doubled against boonless foes.
+Guard Counter,Warrior,Spellbreaker,Major Adept,Gain protection after a successful Full Counter.
+No Escape,Warrior,Spellbreaker,Major Adept,Dazes and stuns inflict immobilize.
+Dispelling Force,Warrior,Spellbreaker,Minor Master,"Dazes, stuns, pulls, knockdowns, knockbacks, and launches remove boons."
+Loss Aversion,Warrior,Spellbreaker,Major Master,Removing boons from a foe deals damage and gives you adrenaline.
+Resilient Counter,Warrior,Spellbreaker,Major Master,Full Counter grants resistance.
+Sun and Moon Style,Warrior,Spellbreaker,Major Master,Gain bonuses for each dagger you equip: Main hand—Strike damage is increased versus foes with no boons. Off Hand— Heal for a percent of your outgoing strike damage.
+Attacker's Insight,Warrior,Spellbreaker,Minor Grandmaster,"Gain Insight when disabling foes or removing boons. Full Counter refreshes all burst skills on hit. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear."
+Enchantment Collapse,Warrior,Spellbreaker,Major Grandmaster,Removing a boon from a foe causes all nearby foes to lose additional boons.
+Resolute Counter,Warrior,Spellbreaker,Major Grandmaster,Full Counter heals and removes conditions from you.
+Magebane Tether,Warrior,Spellbreaker,Major Grandmaster,Hitting with a burst skill casts Magebane Tether on your target if they are within range.
+Pistol Proficiency,Warrior,Bladesworn,Minor Proficiency,You can wield pistols.
+Gun X Sword,Warrior,Bladesworn,Minor Adept,"Gain access to the Gunsaber as an alternate weapon set, but lose the ability to swap to other weapon sets during combat. Adrenaline is replaced with flow."
+Unseen Sword,Warrior,Bladesworn,Major Adept,Strike nearby enemies and gain increased flow rate when swapping to the gunsaber.
+Sharp as the Wind,Warrior,Bladesworn,Major Adept,"Load your gunsaber with ammunition that inflicts damaging conditions, changing its properties. Burn nearby enemies and gain increased flow rate when swapping to the gunsaber."
+River's Flow,Warrior,Bladesworn,Major Adept,"Load your gunsaber with ammunition that supports allies, changing its properties. Grant boons to nearby allies and gain positive flow when swapping to the gunsaber."
+Dragonscale Defense,Warrior,Bladesworn,Minor Master,Gain boons when entering Dragon Trigger.
+Unshakable Mountain,Warrior,Bladesworn,Major Master,Grant barrier to nearby allies when you convert a certain amount of flow into charges.
+Fierce as Fire,Warrior,Bladesworn,Major Master,Gain increased strike damage and condition damage for each round of ammunition spent.
+Lush Forest,Warrior,Bladesworn,Major Master,"Using the first round of ammo on an ammunition skill reduces the recharge of all warrior skills. Does not affect the recharge of Unsheathe Gunsaber, Sheathe Gunsaber, and Dragon Trigger."
+Guns and Glory,Warrior,Bladesworn,Minor Grandmaster,Gain ferocity for a short duration when you hit with an explosion. The effect stacks duration.
+Immortal Dragon,Warrior,Bladesworn,Major Grandmaster,Dragon Slash heals you for a percentage of the damage dealt. Gain protection to allies whenever you convert a certain amount of flow into charges.
+Unyielding Dragon,Warrior,Bladesworn,Major Grandmaster,Dragon Slash becomes unblockable and ignores blindness. Gain might whenever you convert flow into charges.
+Daring Dragon,Warrior,Bladesworn,Major Grandmaster,"Dragon Slash has a lower maximum charge level and consumes more flow per charge, but its effectiveness per charge is increased. Grant boons to nearby allies when you use Dragon Slash."
+Rally the Valiant,Warrior,Paragon,Minor Adept,Gain access to chants and command skills. Gain motivation by using a chant or by using a burst skill while a refrain is active.
+Call to Action,Warrior,Paragon,Major Adept,"Gain motivation when you enter combat. If no refrains are active, automatically activate the refrain of Chant of Action."
+Calming Tongue,Warrior,Paragon,Major Adept,Chant of Recuperation removes conditions from affected allies when activated.
+Liberating Liaise,Warrior,Paragon,Major Adept,Chant of Freedom grants superspeed to affected allies when activated.
+Inspiring Implements,Warrior,Paragon,Minor Master,Gain concentration. Gain adrenaline and motivation when you swap weapons. Motivation can only be gained while a refrain is active.
+Strengthening Stanzas,Warrior,Paragon,Major Master,Refrains grant bonus effects to you while they are active.
+Invigorating Tempo,Warrior,Paragon,Major Master,Heal yourself and gain adrenaline for each point of motivation spent.
+Reverberation,Warrior,Paragon,Major Master,Command echoes can trigger a second time.
+Unyielding Resolve,Warrior,Paragon,Minor Grandmaster,Strike and condition damage dealt to you is reduced for each point of motivation you have.
+Feverish Pulse,Warrior,Paragon,Major Grandmaster,Using a chant reduces the recharge of your other chants and grants boon to affected allies.
+Brisk Pacing,Warrior,Paragon,Major Grandmaster,Deal increased damage based on your motivation level.
+Enduring Refrain,Warrior,Paragon,Major Grandmaster,Refrain effects of chants are stronger. Gain additional motivation when you activate a chant.
+Explosive Entrance,Engineer,Explosives,Minor Adept,"Your first attack when entering combat explodes, dealing damage to nearby foes. This ability refreshes after a dodge roll."
+Grenadier,Engineer,Explosives,Major Adept,Increase the blast radius of grenades. Using a healing skill casts Lesser Grenade Barrage.
+Short Fuse,Engineer,Explosives,Major Adept,Gain fury when you hit a foe with an Explosion.
+Glass Cannon,Engineer,Explosives,Major Adept,Strike damage dealt increases when above health threshold.
+Steel-Packed Powder,Engineer,Explosives,Minor Master,Explosions cause vulnerability.
+Aim-Assisted Rocket,Engineer,Explosives,Major Master,"Missile hits launch a rocket at your target. After enough rockets have been fired, an orbital strike is called instead. This trait has an internal cooldown."
+Explosive Temper,Engineer,Explosives,Major Master,Explosions grant stacking ferocity when they hit.
+Blast Shield,Engineer,Explosives,Major Master,Explosive Entrance grants barrier. Gain vitality based on a percentage of your power.
+Shaped Charge,Engineer,Explosives,Minor Grandmaster,Deal increased strike damage for each stack of vulnerability on your target.
+Grand Entrance,Engineer,Explosives,Major Grandmaster,Explosive Entrance grants you resistance and increased critical-strike chance for a brief duration.
+Shrapnel,Engineer,Explosives,Major Grandmaster,Explosions have a chance to cripple and cause bleeding on hit.
+Big Boomer,Engineer,Explosives,Major Grandmaster,Deal increased strike damage to foes with a lower health percentage than you. Hitting with an Explosion heals you over a few seconds.
+Serrated Steel,Engineer,Firearms,Minor Adept,Critical hits have a chance to cause bleeding. Bleeding you inflict gains increased duration.
+Chemical Rounds,Engineer,Firearms,Major Adept,Gain condition damage. Your pistol skills gain increased condition duration.
+Sanguine Array,Engineer,Firearms,Major Adept,Gain might when you inflict bleeding on a foe.
+High Caliber,Engineer,Firearms,Major Adept,You have an increased critical hit chance against foes within the range threshold.
+Hematic Focus,Engineer,Firearms,Minor Master,Gain fury when you inflict bleeding on an enemy. Fury gives an increased critical-strike chance.
+Juggernaut,Engineer,Firearms,Major Master,Gain might while wielding a flamethrower. Might applied to you gains increased duration. Napalm grants you stability and a fire aura.
+Thermal Vision,Engineer,Firearms,Major Master,Gain expertise. Increase your outgoing condition damage when you inflict burning.
+No Scope,Engineer,Firearms,Major Master,Critical hits on foes within the range threshold have a chance to grant fury. Fury grants you ferocity.
+Modified Ammunition,Engineer,Firearms,Minor Grandmaster,Deal increased strike damage for each condition on a foe.
+Heavy Metal,Engineer,Firearms,Major Grandmaster,Your critical-strike chance and critical damage are increased against foes that are below the health threshold.
+Sharpshooter,Engineer,Firearms,Major Grandmaster,Bleeding you inflict scales off of your power instead of your condition damage.
+Incendiary Powder,Engineer,Firearms,Major Grandmaster,"Burning you inflict lasts longer, and your critical hits inflict burning."
+Cleansing Synergy,Engineer,Inventions,Minor Adept,Using a heal skill triggers a cleansing pulse around you.
+Over Shield,Engineer,Inventions,Major Adept,Shield skills grant protection to nearby allies. Protection on you gains increased damage reduction.
+Automated Medical Response,Engineer,Inventions,Major Adept,Grant regeneration to nearby allies when you use a healing skill's associated tool belt skill.
+Sapping Device,Engineer,Inventions,Major Adept,"Weaken enemies when you disable or immobilize them. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Reconstruction Enclosure,Engineer,Inventions,Minor Master,Grant protection to nearby allies when you use a heal skill.
+Experimental Turrets,Engineer,Inventions,Major Master,Turret. Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.
+Soothing Detonation,Engineer,Inventions,Major Master,Heal nearby allies when using a tool belt skill.
+Mecha Legs,Engineer,Inventions,Major Master,Gain resistance when you dodge.
+Energy Amplifier,Engineer,Inventions,Minor Grandmaster,Your power and healing power are increased while you have regeneration.
+Anticorrosion Plating,Engineer,Inventions,Major Grandmaster,"When you grant protection to an ally, cleanse conditions from them."
+Bunker Down,Engineer,Inventions,Major Grandmaster,Create a proximity mine at your target's location and a med kit at your location when you disable an enemy.
+Medical Dispersion Field,Engineer,Inventions,Major Grandmaster,"While in combat, a percentage of healing you apply to yourself is stored by your Medical Dispersion Field. Each interval, stored healing is spent to heal nearby allies."
+Hidden Flask,Engineer,Alchemy,Minor Adept,Drink a Lesser Elixir B when struck while below the health threshold.
+Invigorating Speed,Engineer,Alchemy,Major Adept,"When you gain swiftness or superspeed, you also gain vigor."
+Protection Injection,Engineer,Alchemy,Major Adept,"Gain protection when you are disabled. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Health Insurance,Engineer,Alchemy,Major Adept,Increase your incoming healing effectiveness. Gain increased healing to others while using a med kit.
+Transmute,Engineer,Alchemy,Minor Master,Drink a Lesser Elixir C when you use a healing skill.
+Comeback Cure,Engineer,Alchemy,Major Master,Grant regeneration when you remove a condition from an ally.
+Boiling Point,Engineer,Alchemy,Major Master,Gain fury when you gain might at or above the threshold.
+Blast Zone,Engineer,Alchemy,Major Master,Create a blast finisher at your location when you use a healing skill 's associated tool belt skill.
+Compounding Chemicals,Engineer,Alchemy,Minor Grandmaster,Heal yourself when you grant yourself a boon. Remove a condition from yourself when you use an elixir skill. Gain increased concentration.
+HGH,Engineer,Alchemy,Major Grandmaster,"Elixirs gain increased durations, and grant might."
+Equal and Opposite Reaction,Engineer,Alchemy,Major Grandmaster,Gain quickness and stability when you disable an enemy.
+Chain Reactivity,Engineer,Alchemy,Major Grandmaster,Gain barrier when you successfully finish a combo field with a leap or a blast. Every third successful finish grants you might and a larger barrier that is shared with allies.
+Optimized Activation,Engineer,Tools,Minor Adept,Using tool belt skills grants vigor.
+Static Discharge,Engineer,Tools,Major Adept,Discharge a bolt of lightning whenever you use a tool belt skill.
+Reactive Lenses,Engineer,Tools,Major Adept,Activate Lesser Utility Goggles when using a healing skill.
+Power Wrench,Engineer,Tools,Major Adept,Reduce the recharge of your elite skill when you dodge.
+Mechanized Deployment,Engineer,Tools,Minor Master,Your tool belt skills gain reduced recharge. Tool belt skills remove conditions. Engage Photon Forge cannot activate this trait.
+Streamlined Kits,Engineer,Tools,Major Master,Equipping an Engineering Kit creates an attack or spell and grants you swiftness.
+Lock On,Engineer,Tools,Major Master,"Striking a stealthed foe triggers Invisible Analysis. Disabling a foe triggers Controlled Analysis. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Takedown Round,Engineer,Tools,Major Master,Deal increased strike damage while your endurance is not full.
+Excessive Energy,Engineer,Tools,Minor Grandmaster,Strike damage dealt is increased while you have vigor.
+Kinetic Battery,Engineer,Tools,Major Grandmaster,"Gain kinetic charges when you use a tool belt skill. At maximum, charges gain a burst of speed."
+Adrenal Implant,Engineer,Tools,Major Grandmaster,Endurance regeneration is increased. Reduce the recharge of your tool belt skills when you dodge.
+Gadgeteer,Engineer,Tools,Major Grandmaster,Gadget skills are more powerful.
+Hammer Proficiency,Engineer,Scrapper,Minor Proficiency,You can wield hammers.
+Function Gyro,Engineer,Scrapper,Minor Adept,"You gain access to the function gyro, which replaces your tool belt skill 5. Gain access to Gyro skills."
+Gyroscopic Acceleration,Engineer,Scrapper,Major Adept,Well abilities have an increased area of effect and grant superspeed to nearby allies on their first pulse. Your function gyro also grants superspeed to allies when cast.
+System Shocker,Engineer,Scrapper,Major Adept,"Disabling a foe grants barrier to nearby allies. Your function gyro dazes foes when cast. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Mass Momentum,Engineer,Scrapper,Major Adept,Gain might while you have stability. Your Function Gyro applies stability to allies when cast.
+Speed of Synergy,Engineer,Scrapper,Minor Master,Using a heal skill grants superspeed in a radius around you. Using a healing skill's associated tool-belt skill grants you personal superspeed.
+Rapid Regeneration,Engineer,Scrapper,Major Master,Regenerate health while affected by swiftness or superspeed.
+Expert Examination,Engineer,Scrapper,Major Master,Your function gyro grants protection to allies when cast. Using a healing skill's associated toolbelt grants protection to nearby allies.
+Object in Motion,Engineer,Scrapper,Major Master,"Deal increased strike damage while you have stability, swiftness, or superspeed. This damage increase compounds for each boon you have."
+Impact Savant,Engineer,Scrapper,Minor Grandmaster,A percentage of the strike damage you deal is converted into barrier.
+Ex Machina,Engineer,Scrapper,Major Grandmaster,"Function gyro has additional charges, no longer has a recharge penalty, and grants barrier to nearby allies."
+Kinetic Accelerators,Engineer,Scrapper,Major Grandmaster,"Grant boons to nearby allies when you successfully combo a field with a blast, leap, or whirl finisher. Your function gyro is now a blast finisher. Whirl finishers can only trigger this trait once per interval."
+Applied Force,Engineer,Scrapper,Major Grandmaster,Gain stability when you gain might at or above the threshold. Might grants bonus power.
+Sword Proficiency,Engineer,Holosmith,Minor Proficiency,You can wield swords in your main hand.
+Photon Projector,Engineer,Holosmith,Minor Adept,Photon Forge replaces your tool belt skill 5. Gain access to Exceed skills.
+Light Density Amplifier,Engineer,Holosmith,Major Adept,Photon Forge reduces incoming damage but has increased passive heat generation.
+Prismatic Converter,Engineer,Holosmith,Major Adept,Deactivate Photon Forge converts conditions into boons based on your heat level.
+Solar Focusing Lens,Engineer,Holosmith,Major Adept,Your first few attacks after entering or exiting Photon Forge inflict burning and deal increased strike damage. This bonus is also granted if you overheat.
+Heat Therapy,Engineer,Holosmith,Minor Master,Gain health per unit of heat lost. This trait does not function while cooling due to an overheat unless Photonic Blasting Module is equipped.
+Crystal Configuration: Storm,Engineer,Holosmith,Major Master,"Photon Forge skill 1 now fires explosive projectiles, but generates extra heat."
+Crystal Configuration: Eclipse,Engineer,Holosmith,Major Master,Corona Burst grants a barrier for each target struck.
+Crystal Configuration: Zephyr,Engineer,Holosmith,Major Master,"Holo Leap removes movement-impairing conditions, grants superspeed instead of swiftness, and inflicts cripple."
+Laser's Edge,Engineer,Holosmith,Minor Grandmaster,"While Photon Forge is active, your outgoing strike damage is increased based on your current heat."
+Thermal Release Valve,Engineer,Holosmith,Major Grandmaster,Dodge rolling vents heat as an attack against nearby foes and grants vigor. (Attack will not occur without heat.)
+Enhanced Capacity Storage Unit,Engineer,Holosmith,Major Grandmaster,"Increases maximum heat capacity. While above 100% heat, periodically gain might. Some skills and traits gain additional heat tiers."
+Photonic Blasting Module,Engineer,Holosmith,Major Grandmaster,Overheat now blasts damage to nearby foes and no longer deals its initial damage to you. The tool belt recharge penalty for Overheat is reduced. Heat can only be lost after overheating. Damage over time from Overheat is still applied.
+,Engineer,Mechanist,Rocket Fist Prototype,12
+,Engineer,Mechanist,Rocket Punch,5
+,Engineer,Mechanist,Overclock Signet,90
+,Engineer,Mechanist,Jade Buster Cannon,1
+Hard Strike,Engineer,Mechanist,,
+Heavy Smash,Engineer,Mechanist,,
+Twin Strike,Engineer,Mechanist,,
+Jade Energy Shot,Engineer,Mechanist,,
+Mace Proficiency,Engineer,Mechanist,Minor Proficiency,You can wield maces in your main hand.
+Mechanical Genius,Engineer,Mechanist,Minor Adept,"Through your mechanical genius, you have utilized Canthan jade technology to build a customized battle mech that will fight at your side. Your mech inherits a percentage of all of your combat attributes except precision, which is added to its own. Your tool belt skills are replaced with Mech Commands, customized by your trait choices. Mech Commands take longer to recharge when  using them far away from your mech. Gain access to signet utility skills."
+Mech Arms: Single-Edge Cutters,Engineer,Mechanist,Major Adept,Unlocks the Mech Command skill Rolling Smash. Your mech's attacks apply bleeding. This attack's effect may only affect a certain target once per interval.
+Mech Arms: High-Impact Drivers,Engineer,Mechanist,Major Adept,Unlocks the Mech Command skill Explosive Knuckle. Your mech's attacks now generate might for allies within a radius. This effect may only occur once per interval. The mech does not count against the target count for this trait.
+Mech Arms: Jade Cannons,Engineer,Mechanist,Major Adept,"Melee attacks become ranged, have an increased chance to critically hit, and apply vulnerability. Unlocks the Mech Command skill Spark Revolver."
+Mech Fighter,Engineer,Mechanist,Minor Master,New combat subroutines enable your mech to use Rocket Punch when you activate Skill 3 on your equipped weapon. Your mech gains a greater percentage of your own toughness and vitality stats.
+Mech Frame: Conductive Alloys,Engineer,Mechanist,Major Master,Unlocks the Mech Command skill Discharge Array. Your mech gains a greater percentage of your own condition damage and expertise stats.
+Mech Frame: Channeling Conduits,Engineer,Mechanist,Major Master,"Unlocks the Mech Command skill Crisis Zone. When you or your mech apply barrier, also grant a boon to the affected target. Your mech gains a greater percentage of your concentration and healing power stats."
+Mech Frame: Variable Mass Distributor,Engineer,Mechanist,Major Master,Unlocks the Mech Command skill Core Reactor Shot. Your mech gains a greater percentage of your own precision stats.
+Exigency Protocols,Engineer,Mechanist,Minor Grandmaster,"When your mech is struck while under half health, it activates Exigency Protocols, gaining damage reduction and regeneration for a short duration. Regeneration boons you apply are stronger."
+Mech Core: Jade Dynamo,Engineer,Mechanist,Major Grandmaster,Unlocks the Mech Command skill Jade Mortar. Mech Command skills grant you quickness when used and have a reduced cooldown.
+Mech Core: Barrier Engine,Engineer,Mechanist,Major Grandmaster,"Unlocks the Mech Command skill Barrier Burst. While in combat, your mech will automatically grant a small barrier each interval to nearby allies. The mech does not count against the target count for this trait."
+Mech Core: J-Drive,Engineer,Mechanist,Major Grandmaster,"Gain access to the Mech Command skill Sky Circus. While dismissed or away for repairs, your mech supports you with an occasional aerial bombardment. Signet skills gain improved passive effects and continue to grant their passive bonuses while recharging."
+Experimental Union,Engineer,Amalgam,Minor Adept,"Through asuran ingenuity, you are host to a mercurial mold. You are able to command it using selectable morph skills that replace your toolbelt skills or even fully merge with it to evolve into a superior being. Morph skills selected will alter the composition of the mercurial mold, changing the bonuses it grants you when you evolve. Gain access to stance utility skills."
+Stainless Steel,Engineer,Amalgam,Major Adept,Convert conditions to boons when you use a stance skill or evolve.
+Innervating Alloy,Engineer,Amalgam,Major Adept,Heal every second while you have barrier. Heal when you evolve.
+Hardened Chrome,Engineer,Amalgam,Major Adept,Morph skills and evolving grant protection to yourself.
+Hybrid Vigor,Engineer,Amalgam,Minor Master,Gain vitality. Gain barrier when you use a morph skill.
+Carbolic Composition,Engineer,Amalgam,Major Master,Amalgam skills inflict poison on hit. Poison you inflict lasts longer.
+Mercurial Tendencies,Engineer,Amalgam,Major Master,Disabling an enemy reduces the cooldown of Evolve.
+Silver Lining,Engineer,Amalgam,Major Master,Evolve no longer inherits bonuses from strains. Morph skills grant their strain bonuses.
+Willing Host,Engineer,Amalgam,Minor Grandmaster,Using a morph skill increases your damage for a duration.
+Symbiotic Synergy,Engineer,Amalgam,Major Grandmaster,Evolve recharges morph skills. Morph skills deal increased strike damage.
+New Genes,Engineer,Amalgam,Major Grandmaster,Morph skills grants boons to allies. Grant an additional boon based on which morph skill was used.
+Double Helix,Engineer,Amalgam,Major Grandmaster,Evolve has two charges and grants an increased attribute bonus.
+Opening Strike,Ranger,Marksmanship,Minor Adept,You and your pet inflict vulnerability with your first strike when entering combat.
+Stoneform,Ranger,Marksmanship,Major Adept,Use Lesser Signet of Stone when you use an elite skill. Activating a Signet grants might and fury.
+Hunter's Gaze,Ranger,Marksmanship,Major Adept,Gain might when you strike a foe based on their health percent.
+Clarion Bond,Ranger,Marksmanship,Major Adept,Cast Lesser Call of the Wild when you swap pets.
+Alpha Focus,Ranger,Marksmanship,Minor Master,Your opening strikes inflict cripple on your foes.
+Wolfsong,Ranger,Marksmanship,Major Master,Canine Beast abilities apply vulnerability and reveal nearby enemies. You deal additional increased strike damage against vulnerable enemies.
+Farsighted,Ranger,Marksmanship,Major Master,Ranger weapon skills deal increased strike damage. Damage is further increased for foes above the range threshold.
+Moment of Clarity,Ranger,Marksmanship,Major Master,Gain an attack of opportunity for you and your pet on interrupting a foe. Daze and stun durations that you inflict last longer. This trait can only grant an attack of opportunity against enemies with defiance bars once per interval.
+Precise Strike,Ranger,Marksmanship,Minor Grandmaster,Opening Strike has an increased chance to critically strike.
+Predator's Onslaught,Ranger,Marksmanship,Major Grandmaster,"You and your pet deal increased strike damage to disabled, defiant, or movement-impaired foes. Affected conditions are stun, taunt, daze, cripple, fear, immobilize, and chilled."
+Remorseless,Ranger,Marksmanship,Major Grandmaster,Regain opening strike whenever you gain fury. Opening strike deals more damage.
+Lead the Wind,Ranger,Marksmanship,Major Grandmaster,Your longbow and harpoon-gun skills pierce and recharge faster. Point-Blank Shot grants boons.
+Tail Wind,Ranger,Skirmishing,Minor Adept,Gain swiftness when swapping weapons in combat.
+Sharpened Edges,Ranger,Skirmishing,Major Adept,You and your pet have a chance to cause bleeding on critical hits.
+Primal Reflexes,Ranger,Skirmishing,Major Adept,"When you successfully evade an attack, gain vigor."
+Trapper's Expertise,Ranger,Skirmishing,Major Adept,Increase the duration of boons and conditions applied by traps. Offensive traps inflict cripple.
+Furious Grip,Ranger,Skirmishing,Minor Master,Gain fury when swapping weapons in combat.
+Fang and Claw,Ranger,Skirmishing,Major Master,"Feline, avian, and drake pets gain additional precision and ferocity. Beast skills grant fury around the ranger."
+Strider's Strength,Ranger,Skirmishing,Major Master,You and your pet gain power. Gain additional power while wielding a sword. Successfully evading an attack grants might.
+Hidden Barbs,Ranger,Skirmishing,Major Master,Bleeding you inflict is more dangerous.
+Hunter's Tactics,Ranger,Skirmishing,Minor Grandmaster,You deal more damage and have an increased chance to critically strike while attacking from behind or the side or when striking a defiant foe.
+Quick Draw,Ranger,Skirmishing,Major Grandmaster,"When swapping weapons, gain quickness. The next ranger weapon skill you use will recharge faster."
+Light on your Feet,Ranger,Skirmishing,Major Grandmaster,"Damage and condition duration are increased after dodging or using a ranger skill that evades. Short bow skills pierce and gain recharge reduction, and their attacks from behind or while flanking or against defiant foes are improved."
+Vicious Quarry,Ranger,Skirmishing,Major Grandmaster,"Fury grants ferocity and additional increased critical strike chance. When struck while below the health threshold, gain fury."
+Natural Vigor,Ranger,Wilderness Survival,Minor Adept,You recover endurance more quickly.
+Child of Earth,Ranger,Wilderness Survival,Major Adept,Create muddy terrain when you use a healing skill.
+Oakheart Salve,Ranger,Wilderness Survival,Major Adept,"Gain regeneration when you are inflicted with bleeding, poison, or burning. While you have regeneration, you take reduced strike damage."
+Arachnophobia,Ranger,Wilderness Survival,Major Adept,Spider pet's Spit and devourer pet's Twin Darts additionally inflict torment. You and your pet gain expertise ; spiders and devourers gain more.
+Companion's Defense,Ranger,Wilderness Survival,Minor Master,You and your pet gain protection when you dodge roll.
+Ambidexterity,Ranger,Wilderness Survival,Major Master,"Gain condition damage. Gain additional condition damage while wielding a torch, dagger, or mace. Torch and dagger skills recharge faster."
+Survival Instincts,Ranger,Wilderness Survival,Major Master,"Gain increased outgoing strike damage and reduced incoming strike damage. When above the health threshold, outgoing strike damage is further increased. When below the health threshold, incoming strike damage is further reduced."
+Empathic Bond,Ranger,Wilderness Survival,Major Master,Remove conditions when you swap pets.
+Rugged Growth,Ranger,Wilderness Survival,Minor Grandmaster,You and your pet recover health while affected by protection.
+Carnivore,Ranger,Wilderness Survival,Major Grandmaster,"Steal health from enemies when you or your pet disable them. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Wilderness Knowledge,Ranger,Wilderness Survival,Major Grandmaster,Survival skills grant fury and remove conditions.
+Poison Master,Ranger,Wilderness Survival,Major Grandmaster,"Upon using a Beast ability, your pet's next attack will inflict poison ; your poison damage is increased."
+Rejuvenation,Ranger,Nature Magic,Minor Adept,Beast skills now grant regeneration around the ranger.
+Bountiful Hunter,Ranger,Nature Magic,Major Adept,You deal increased strike damage for each boon affecting you. Your pet deals increased strike damage for each boon affecting it.
+Wellspring,Ranger,Nature Magic,Major Adept,Grant regeneration to nearby allies when you use a healing skill. You and your pet gain healing power based on power.
+Allies' Aid,Ranger,Nature Magic,Major Adept,"Cast ""Search and Rescue!"" when you begin reviving an ally. Moa pets grant barrier to nearby allies with their Beast skill."
+Fortifying Bond,Ranger,Nature Magic,Minor Master,"When you gain a boon, it is shared with your pet."
+Evasive Purity,Ranger,Nature Magic,Major Master,Cleanse a condition when you dodge. Heal if you cleansed a condition this way.
+Spirited Arrival,Ranger,Nature Magic,Major Master,Grant boons to nearby allies when swapping pets.
+Windborne Notes,Ranger,Nature Magic,Major Master,Grant nearby allies regeneration when you use a warhorn skill. Heal allies when you grant them regeneration.
+Lingering Magic,Ranger,Nature Magic,Minor Grandmaster,You and your pet gain increased concentration. Regeneration you apply is more effective.
+Nature's Vengeance,Ranger,Nature Magic,Major Grandmaster,Spirits slam again when they finish shaking.
+Protective Ward,Ranger,Nature Magic,Major Grandmaster,"Cast Lesser ""Guard!"" when you swap pets."
+Invigorating Bond,Ranger,Nature Magic,Major Grandmaster,Beast skills heal allies around the ranger.
+Pack Alpha,Ranger,Beastmastery,Minor Adept,"Your pet 's attributes are improved and pet skills gain recharge reduction. Improved attributes are power, condition damage, precision, toughness, and vitality."
+Go for the Eyes,Ranger,Beastmastery,Major Adept,Nearby foes are blinded by Beast abilities.
+Natural Healing,Ranger,Beastmastery,Major Adept,Your pet recovers health each interval.
+Resounding Timbre,Ranger,Beastmastery,Major Adept,"Commands copy boons from yourself to your pet. Soulbeast : when merged, extend the duration of boons on yourself instead."
+Loud Whistle,Ranger,Beastmastery,Minor Master,"While your health is above the threshold, your pet deals increased strike damage. Your pet swap gains recharge reduction."
+Wilting Strike,Ranger,Beastmastery,Major Master,Beast abilities inflict weakness on those struck. This effect will only occur once on each target struck by an ability.
+Bestial Rage,Ranger,Beastmastery,Major Master,Gain might and fury when you disable a foe.
+Honed Axes,Ranger,Beastmastery,Major Master,"You and your pet gain ferocity. Axe skills gain reduced recharge, and you gain additional ferocity while wielding an axe."
+Pet's Prowess,Ranger,Beastmastery,Minor Grandmaster,Your pet moves faster and deals more damage on critical hits.
+Beastly Warden,Ranger,Beastmastery,Major Grandmaster,Beast abilities taunt nearby foes. Ursine and porcine pets deal increased damage and have increased health.
+Zephyr's Speed,Ranger,Beastmastery,Major Grandmaster,Cast Lesser Quickening Zephyr when you swap pets.
+Go for the Throat,Ranger,Beastmastery,Major Grandmaster,"When you strike an enemy with a Beast ability, cast Lesser ""Sic 'Em!"" on the enemy."
+Staff Proficiency,Ranger,Druid,Minor Proficiency,You can wield a staff.
+Celestial Being,Ranger,Druid,Minor Adept,Gain access to Glyphs. Become a celestial avatar once you gain enough astral force. Generate astral force by healing allies and damaging foes.
+Druidic Clarity,Ranger,Druid,Major Adept,Becoming a celestial avatar removes conditions from you and nearby allies.
+Verdant Etching,Ranger,Druid,Major Adept,"Glyphs heal nearby allies. While in celestial avatar form, grant protection instead."
+Blood Moon,Ranger,Druid,Major Adept,Inflict bleeding on enemies you immobilize or disable.
+Live Vicariously,Ranger,Druid,Minor Master,"When you heal an ally, you are also healed."
+Celestial Shadow,Ranger,Druid,Major Master,Grant superspeed and stealth to nearby allies when leaving celestial avatar form.
+Grace of the Land,Ranger,Druid,Major Master,Grant boons to allies within the radius of your Celestial Avatar skills.
+Natural Balance,Ranger,Druid,Major Master,"Upon entering and leaving celestial avatar form, deal increased condition damage and increased condition duration for a brief period."
+Natural Mender,Ranger,Druid,Minor Grandmaster,Increase healing to other allies. Gain astral force each interval while not in celestial avatar form.
+Cultivated Synergy,Ranger,Druid,Major Grandmaster,"When you use a healing skill, heal around your pet and create a water field attached to them. When you combo a water field with a blast finisher, sprout a Lesser Seed of Life at the location."
+Lingering Light,Ranger,Druid,Major Grandmaster,"While in Celestial Avatar form, your healing of others is significantly increased. Healing another player with a Celestial Avatar skill reduces the cooldown of Celestial Avatar. Cooldown can only be reduced once per outgoing heal and will occur even if the affected player is at full health."
+Eclipse,Ranger,Druid,Major Grandmaster,Your Celestial Avatar skills are offensively augmented. Striking enemies grants additional astral force.
+Lunge,Ranger,Soulbeast,F1,0.75 ¾
+Ley-Line Vortex,Ranger,Soulbeast,F2,3 0.5 ½
+Protection,Ranger,Soulbeast,F1,
+Chomp,Ranger,Soulbeast,F2,0.5 ½
+Bite,Ranger,Soulbeast,F1,0.5 ½
+Defy Pain,Ranger,Soulbeast,F2,0.25 ¼
+Swoop,Ranger,Soulbeast,F1,0.5 ½
+Quickening Screech,Ranger,Soulbeast,F2,
+Rain of Spikes,Ranger,Soulbeast,F1,0.75 ¾
+Sharpen Spines,Ranger,Soulbeast,F2,
+Crippling Leap,Ranger,Soulbeast,F1,0.75 ¾
+Brutal Charge,Ranger,Soulbeast,F2,0.75 ¾
+Electrocute,Ranger,Soulbeast,F1,0.5 ½
+Spit Goop,Ranger,Soulbeast,F2,0.75 ¾
+Tail Lash,Ranger,Soulbeast,F1,0.5 ½
+Devourer Retreat,Ranger,Soulbeast,F2,0.75 ¾
+Chomp,Ranger,Soulbeast,F1,0.5 ½
+Tail Swipe,Ranger,Soulbeast,F2,0.5 ½
+Crippling Anguish,Ranger,Soulbeast,F1,0.5 ½
+Narcotic Spores,Ranger,Soulbeast,F2,0.75 ¾
+Bite,Ranger,Soulbeast,F1,0.5 ½
+Maul,Ranger,Soulbeast,F2,
+Phase Pounce,Ranger,Soulbeast,F2,0.75 ¾
+Call Lightning,Ranger,Soulbeast,F1,0.75 ¾
+Photosynthesize,Ranger,Soulbeast,F2,1
+Healing Cloud,Ranger,Soulbeast,F1,0.25 ¼
+Dark Water,Ranger,Soulbeast,F2,1
+Harmonic Cry,Ranger,Soulbeast,F1,0.5 ½
+Frenzied Attack,Ranger,Soulbeast,F2,1
+Dash,Ranger,Soulbeast,F1,0.5 ½
+Wing Buffet,Ranger,Soulbeast,F2,0.5 ½
+Maul,Ranger,Soulbeast,F1,0.5 ½
+Brutal Charge,Ranger,Soulbeast,F2,0.75 ¾
+Kick,Ranger,Soulbeast,F1,0.5 ½
+Charge,Ranger,Soulbeast,F2,1
+Charging Bite,Ranger,Soulbeast,F1,1 0.75 ¾
+Fear,Ranger,Soulbeast,F2,0.5 ½
+Takedown,Ranger,Soulbeast,F1,0.75 ¾
+Smoke Assault,Ranger,Soulbeast,F2,
+Staring Void,Ranger,Soulbeast,F1,0.75 ¾
+Tormenting Visions,Ranger,Soulbeast,F2,2 0.25 ¼
+Entangling Web,Ranger,Soulbeast,F1,0.5 ½
+Poison Gas,Ranger,Soulbeast,F2,0.5 ½
+Slam,Ranger,Soulbeast,F1,0.75 ¾
+Heavy Shot,Ranger,Soulbeast,F2,1
+Vampiric Bite,Ranger,Soulbeast,F1,0.5 ½
+Undead Plague,Ranger,Soulbeast,F2,1
+Battle Maul,Ranger,Soulbeast,F1,1
+Bop,Ranger,Soulbeast,F2,0.5 ½
+Tail Lash,Ranger,Soulbeast,F1,0.5 ½
+Wing Buffet,Ranger,Soulbeast,F2,0.5 ½
+Unflinching Fortitude,Ranger,Soulbeast,F3,0.25 ¼
+Primal Cry,Ranger,Soulbeast,F3,1 0.25 ¼
+Prelude Lash,Ranger,Soulbeast,F3,0.25 ¼
+Worldly Impact,Ranger,Soulbeast,F3,0.75 ¾
+Spiritual Reprieve,Ranger,Soulbeast,F3,1
+Dagger Proficiency,Ranger,Soulbeast,Minor Proficiency,You can wield a dagger in your main hand.
+Elevated Bond,Ranger,Soulbeast,Minor Adept,"Gain access to Stances. Survival in the desert has enhanced your connection to your pet, granting you the ability to meld with them by entering beastmode. Traits that affect your pet may affect you differently while in beastmode."
+Fresh Reinforcement,Ranger,Soulbeast,Major Adept,Entering beastmode grants you the boons affecting your pet.
+Live Fast,Ranger,Soulbeast,Major Adept,Using a Beast ability grants you offensive boons.
+Unstoppable Union,Ranger,Soulbeast,Major Adept,Entering or exiting beast mode grants protection.
+Furious Strength,Ranger,Soulbeast,Minor Master,You deal increased strike damage while you have fury.
+Second Skin,Ranger,Soulbeast,Major Master,Conditions inflict less damage to you while you have protection.
+Essence of Speed,Ranger,Soulbeast,Major Master,Gaining quickness increases the duration of other boons affecting you.
+Predator's Cunning,Ranger,Soulbeast,Major Master,"When you apply poison to a foe, steal some health from them."
+Twice as Vicious,Ranger,Soulbeast,Minor Grandmaster,Disabling a foe increases your damage and condition damage for a short duration.
+Eternal Bond,Ranger,Soulbeast,Major Grandmaster,Heal when you use a merged skill. You can swap pets while merged.
+Leader of the Pack,Ranger,Soulbeast,Major Grandmaster,Stance skills gain increased duration on you and grant their effects to nearby allies for a reduced duration.
+Oppressive Superiority,Ranger,Soulbeast,Major Grandmaster,Deal increased damage to foes at a lower health percentage than you. Conditions you apply to foes at a lower health percentage than you last longer.
+Venomous Outburst,Ranger,Untamed,F1,10
+Rending Vines,Ranger,Untamed,F2,10
+Enveloping Haze,Ranger,Untamed,F3,20
+Hammer Proficiency,Ranger,Untamed,Minor Proficiency,You can wield hammers.
+Unleashed Power,Ranger,Untamed,Minor Adept,"Gain access to Cantrips and Unleash. While your pet is unleashed, its skills are replaced with larger area-of-effect skills. Once per interval, Unleashed Ambush skills become available for a short period of time after you unleash."
+Debilitating Blows,Ranger,Untamed,Major Adept,"Disabling a foe applies conditions to that foe based on your current state. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Nature's Shield,Ranger,Untamed,Major Adept,Cantrips grant barrier to you and your pet.
+Blinding Outburst,Ranger,Untamed,Major Adept,Venomous Outburst deals more damage and applies blindness in addition to its other effects. Unleashed Ambush skills deal more damage.
+Natural Fortitude,Ranger,Untamed,Minor Master,Gain vitality. Unleashed Ambush skills siphon health if they hit. Siphon healing is reduced for each target struck beyond the first. Cannot siphon the same target more than once per skill.
+Enhancing Impact,Ranger,Untamed,Major Master,"Disabling a foe grants you boons based on your current state. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Cleansing Unleash,Ranger,Untamed,Major Master,Remove conditions when you or your pet unleash.
+Corrupting Vines,Ranger,Untamed,Major Master,Rending Vines corrupts boons into conditions instead of removing them. Unleashed Ambush skills remove boons from enemies. Cannot affect enemies more than once per skill.
+Vow of the Untamed,Ranger,Untamed,Minor Grandmaster,Your outgoing strike damage is increased while you are unleashed. You take reduced damage from strikes while your pet is unleashed.
+Let Loose,Ranger,Untamed,Major Grandmaster,Unleashed Ambush skills grant boons to nearby allies. Refresh Unleashed Power when you swap weapons.
+Biorhythm,Ranger,Untamed,Major Grandmaster,"When you or your pet unleash, gain biorhythm every interval for a duration. When you reach the biorhythm stack threshold, the next time you or your pet unleash, gain both bonuses from Vow of the Untamed."
+Ferocious Symbiosis,Ranger,Untamed,Major Grandmaster,"You and your pet grant each other increased damage and movement speed when striking enemies. When this triggers, it refreshes the duration of all stacks"
+Teachings of the Tengu,Ranger,Galeshot,Minor Adept,"Mastery of tengu wind magic allows you to conjure the Cyclone Bow at will. Using arrow -consuming skills grants Wind Force. After you reach the Wind Force threshold, you are able to use Hawkeye. Gain access to Squalls. Using Cyclone Bow skills consumes arrows. You generate arrows every interval."
+Joy of Movement,Ranger,Galeshot,Major Adept,Squalls remove movement -impairing conditions and a damaging condition.
+Feel the Rush,Ranger,Galeshot,Major Adept,Movement skills grant you swiftness and endurance.
+Wuthering Wind,Ranger,Galeshot,Major Adept,"After using Bluster, your pet 's next attack creates a damaging swell of wind around its target."
+Bird of Prey,Ranger,Galeshot,Minor Master,Strike damage is increased when you have swiftness or superspeed. Swiftness is more effective.
+Flock Together,Ranger,Galeshot,Major Master,Feathered pets have increased strike damage and health. Beast skills grant quickness around the ranger.
+Perilous Skies,Ranger,Galeshot,Major Master,Quarry's Peril is replaced by Pelt.
+Thrill of the Catch,Ranger,Galeshot,Major Master,Restore arrows when you or your pet disable an enemy.
+Jetstream,Ranger,Galeshot,Minor Grandmaster,Your base movement speed is increased. Hawkeye grants superspeed.
+Cloudburst,Ranger,Galeshot,Major Grandmaster,"Quarry's Peril and Supersonic Arrow reset the cooldown of Bluster. When you use Bluster or Hawkeye, grant boons to nearby allies."
+Gale Force,Ranger,Galeshot,Major Grandmaster,"Wind Force grants stacking increased movement speed and damage. When you use Hawkeye, convert these into a stronger bonus for a duration."
+Shrike,Ranger,Galeshot,Major Grandmaster,"After a number of missile hits, release a volley of arrows at your target and gain an arrow. Missiles from this trait do not count toward its next trigger."
+Serpent's Touch,Thief,Deadly Arts,Minor Adept,"Stealing inflicts poison. While in the downed state, your attacks apply poison."
+Dagger Training,Thief,Deadly Arts,Major Adept,"Gain bonus power, which is increased when wielding a dagger."
+Mug,Thief,Deadly Arts,Major Adept,Deal damage and gain life when stealing. This attack cannot critically hit enemies.
+Deadly Ambition,Thief,Deadly Arts,Major Adept,Inflict poison when striking a foe with a dual wield attack. Gain increased condition damage. Applies poison once per attack use.
+Lotus Poison,Thief,Deadly Arts,Minor Master,Gain might and weaken targets when you poison them.
+Even the Odds,Thief,Deadly Arts,Major Master,Apply vulnerability when you steal. Apply conditions when you hit with a stealth attack.
+Panic Strike,Thief,Deadly Arts,Major Master,Immobilizing a foe poisons them. Striking a foe with unique conditions equal to or more than the threshold immobilizes them.
+Revealed Training,Thief,Deadly Arts,Major Master,"Gain power, then gain extra power while you are revealed."
+Exposed Weakness,Thief,Deadly Arts,Minor Grandmaster,Deal increased strike damage to your target for each unique condition on them.
+Potent Poison,Thief,Deadly Arts,Major Grandmaster,Poison you inflict has increased damage and duration. Other Deadly Arts traits apply additional stacks of poison.
+Improvisation,Thief,Deadly Arts,Major Grandmaster,"Use stolen skills twice. Reduce the cooldown of all equipped utility skills when you steal. If you are a Specter, gain additional shadow force while using Siphon on an enemy. Cooldown effect will only trigger if all utility slots are filled and if at least one of your active utility skills is on cooldown. Does not affect inactive sequence skills."
+Executioner,Thief,Deadly Arts,Major Grandmaster,Deal increased strike damage when your target is below the health threshold.
+Keen Observer,Thief,Critical Strikes,Minor Adept,Critical-hit chance is increased while your health is above the threshold.
+Assassin's Fury,Thief,Critical Strikes,Major Adept,Gain might when you gain fury.
+Signets of Power,Thief,Critical Strikes,Major Adept,Signets grant initiative.
+Twin Fangs,Thief,Critical Strikes,Major Adept,"Deal increased critical damage, which is further increased when your health is above the threshold. Gain bonus critical-hit chance when hitting a foe from behind or the side or when they are defiant."
+Unrelenting Strikes,Thief,Critical Strikes,Minor Master,Grant fury to yourself and nearby allies when you critically strike an enemy.
+Sundering Shade,Thief,Critical Strikes,Major Master,Stealth Attack skills inflict vulnerability and grant fury upon successfully hitting foes.
+Practiced Tolerance,Thief,Critical Strikes,Major Master,Gain ferocity based on your precision.
+Deadly Aim,Thief,Critical Strikes,Major Master,Your pistol and harpoon gun attacks now pierce and have increased strike damage.
+Ferocious Strikes,Thief,Critical Strikes,Minor Grandmaster,Gain increased critical damage against foes whose health is above the threshold.
+No Quarter,Thief,Critical Strikes,Major Grandmaster,Landing a critical hit while under the effects of fury increases the duration of fury. Gain increased ferocity while under the effects of fury.
+Hidden Killer,Thief,Critical Strikes,Major Grandmaster,Gain bonus critical-hit chance while stealthed. This bonus lingers for a short duration after you've been revealed.
+Invigorating Precision,Thief,Critical Strikes,Major Grandmaster,You are healed for a percentage of outgoing critical-hit damage. This healing is increased while you are under the effects of fury.
+Merciful Ambush,Thief,Shadow Arts,Minor Adept,Heal when you enter or exit stealth. Stealth yourself and your target when reviving an ally. This effect also applies to stealth you grant to allies.
+Shielding Restoration,Thief,Shadow Arts,Major Adept,Grant barrier and dark aura to nearby allies when you use a healing skill.
+Shadow's Embrace,Thief,Shadow Arts,Major Adept,Remove conditions when you enter or exit stealth. This effect also applies to stealth you grant to allies.
+Hidden Thief,Thief,Shadow Arts,Major Adept,Stealing inflicts blindness. Stealth Attacks inflict weakness. Cannot affect the same target more than once per interval.
+Meld with Shadows,Thief,Shadow Arts,Minor Master,Gain superspeed when you enter or exit stealth.
+Shadow Savior,Thief,Shadow Arts,Major Master,Gain dark aura when you steal. Granting yourself dark aura heals nearby allies.
+Leeching Venoms,Thief,Shadow Arts,Major Master,Venom utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth. Siphoning can only occur once per strike.
+Cloaked in Shadow,Thief,Shadow Arts,Major Master,Gaining stealth blinds nearby foes. Blinding a foe siphons health from them.
+Shadow Siphoning,Thief,Shadow Arts,Minor Grandmaster,Stealth attacks siphon health if they hit. Cannot siphon the same target more than once per interval.
+Cover of Shadow,Thief,Shadow Arts,Major Grandmaster,"When you steal, create a field around yourself that grants allies protection. Granting dark aura to yourself removes a condition from nearby allies."
+Shadow's Rejuvenation,Thief,Shadow Arts,Major Grandmaster,Gain initiative when you enter or exit stealth.
+Rending Shade,Thief,Shadow Arts,Major Grandmaster,Steal boons from enemies you strike with stealth attacks. Striking a boonless foe with a stealth attack breaks their barrier instead.
+Expeditious Dodger,Thief,Acrobatics,Minor Adept,Gain swiftness upon dodging.
+Instant Reflexes,Thief,Acrobatics,Major Adept,Gain evasion when you use an elite skill.
+Pumping Up,Thief,Acrobatics,Major Adept,Gain might when when you dodge.
+Pain Response,Thief,Acrobatics,Major Adept,Dodging removes a damaging condition from you.
+Feline Grace,Thief,Acrobatics,Minor Master,Gain vigor upon successfully evading an attack.
+Guarded Initiation,Thief,Acrobatics,Major Master,Movement skills grant resistance.
+Swindler's Equilibrium,Thief,Acrobatics,Major Master,Gain power and additional power while wielding a sword or underwater spear. Successfully evading an attack while wielding a sword or underwater spear recharges Steal.
+Hard to Catch,Thief,Acrobatics,Major Master,Gain endurance when you shadowstep.
+Fluid Strikes,Thief,Acrobatics,Minor Grandmaster,Gain increased strike damage for a period of time when you shadowstep or use a movement skill.
+Assassin's Reward,Thief,Acrobatics,Major Grandmaster,Heal yourself whenever you use a skill that uses initiative. Heal yourself for each point of initiative spent.
+Upper Hand,Thief,Acrobatics,Major Grandmaster,"Gain initiative when you dodge, and gain initiative and regeneration when you evade an attack. Evading can only trigger this trait once per interval."
+Don't Stop,Thief,Acrobatics,Major Grandmaster,"While you have swiftness, movement-impairing conditions have reduced duration. When you gain swiftness, lose a movement-impairing condition."
+Kleptomaniac,Thief,Trickery,Minor Adept,Stealing gives you initiative.
+Uncatchable,Thief,Trickery,Major Adept,Leave behind lesser caltrops when you dodge.
+Burst of Agility,Thief,Trickery,Major Adept,Use Lesser Haste when attacking a foe from behind or from the side or when they are defiant.
+Thrill of the Crime,Thief,Trickery,Major Adept,"When you Steal, you and all nearby allies gain fury, might, and swiftness for 10 seconds."
+Preparedness,Thief,Trickery,Minor Master,Increases maximum initiative by 3. Gain increased expertise.
+Bountiful Theft,Thief,Trickery,Major Master,Stealing grants you and all nearby allies vigor. You rip boons from your target and grant them to nearby allies. Grant additional boons to allies if your target has no boons.
+Trickster,Thief,Trickery,Major Master,Tricks remove conditions.
+Pressure Striking,Thief,Trickery,Major Master,Enemies you interrupt are inflicted with torment. This trait can only affect enemies with defiance bars once per interval.
+Lead Attacks,Thief,Trickery,Minor Grandmaster,Increases all damage dealt per initiative spent. Steal gains reduced recharge time.
+Quick Pockets,Thief,Trickery,Major Grandmaster,Gain initiative on swapping weapons while in combat.
+Sleight of Hand,Thief,Trickery,Major Grandmaster,Stealing also dazes the target. Reduces the recharge of Steal.
+Deadly Ambush,Thief,Trickery,Major Grandmaster,Stealing also applies bleeding. Bleeding you inflict deals more damage.
+Staff Proficiency,Thief,Daredevil,Minor Proficiency,You can wield a staff.
+Physical Supremacy,Thief,Daredevil,Minor Adept,Gain access to physical skills. Your maximum endurance threshold is increased.
+Marauder's Resilience,Thief,Daredevil,Major Adept,Gain vitality based on a portion of your power. Damage is decreased from foes within the range threshold.
+Escapist's Fortitude,Thief,Daredevil,Major Adept,Gain health when you successfully evade an attack. Remove a condition whenever you evade an attack.
+Brawler's Tenacity,Thief,Daredevil,Major Adept,Physical skills grant endurance when activated.
+Weakening Strikes,Thief,Daredevil,Minor Master,"Your next attack after dodging causes weakness to foes struck. Weakened enemies deal less damage to you, and you deal increased strike damage to them."
+Staff Master,Thief,Daredevil,Major Master,"While wielding a staff, gain endurance for each initiative point spent. Gain bonus power, which is increased when wielding a staff."
+Havoc Specialist,Thief,Daredevil,Major Master,Strike damage dealt is increased when your endurance is not full.
+Impacting Disruption,Thief,Daredevil,Major Master,Recharge steal and inflict a pulmonary impact when you interrupt an enemy. This trait can only affect enemies with defiance bars once per interval.
+Endurance Thief,Thief,Daredevil,Minor Grandmaster,Gain endurance when you successfully steal from an enemy.
+Lotus Training,Thief,Daredevil,Major Grandmaster,"Your dodge ability now uses Impaling Lotus, firing daggers at nearby enemies. Gain increased condition damage for a period of time when dodging."
+Unhindered Combatant,Thief,Daredevil,Major Grandmaster,Your dodge ability is replaced by a long-range dash that removes inhibiting conditions and grants swiftness and damage reduction. Removing conditions in this way temporarily reduces endurance gain.
+Bounding Dodger,Thief,Daredevil,Major Grandmaster,"Your dodge ability is replaced by Bound, dealing damage to the area after you evade. Gain increased strike damage for a period of time after you dodge."
+Rifle Proficiency,Thief,Deadeye,Minor Proficiency,You can wield rifles.
+Deadeye's Gaze,Thief,Deadeye,Minor Adept,"Steal is replaced with Deadeye's Mark, which unlocks new Stolen skills and malice generation. Stealth attacks consume malice for bonus effects. Gain access to rifles and cantrips."
+Malicious Intent,Thief,Deadeye,Major Adept,Marking a target or striking your mark with a stealth attack will immediately grant malice.
+Collateral Damage,Thief,Deadeye,Major Adept,Trigger Burst of Shadows at your target's location if it dies while marked.
+One in the Chamber,Thief,Deadeye,Major Adept,"When you cast a cantrip, gain a random new stolen skill. Stolen skills deal more damage. (Requires a marked target. Overwrites existing stolen skills.)"
+Renewing Gaze,Thief,Deadeye,Minor Master,Deadeye's Mark recharges if your mark is defeated. Gain regeneration when this recharge occurs.
+Silent Scope,Thief,Deadeye,Major Master,"Gain precision. When you dodge roll, gain access to your stealth attack if your malice is above the threshold."
+Payback,Thief,Deadeye,Major Master,"When Renewing Gaze triggers, this trait restores a portion of the recharge time needed by your healing, utility, and elite skills. Excludes racial skills."
+Premeditation,Thief,Deadeye,Major Master,Deal increased strike damage for each unique boon you have; concentration is increased.
+Iron Sight,Thief,Deadeye,Minor Grandmaster,"Strike damage dealt to your marked target is increased, and strike damage taken from your marked target is reduced."
+Maleficent Seven,Thief,Deadeye,Major Grandmaster,Increase the maximum malice -stack count. Restore initiative and gain boons upon reaching the maximum number of malice stacks.
+Be Quick or Be Killed,Thief,Deadeye,Major Grandmaster,Gain quickness when marking a foe. Your power and precision are increased while under this effect.
+Fire for Effect,Thief,Deadeye,Major Grandmaster,"Using a stolen skill grants additional boons to allies around you. Stolen skills will always be Steal Time, regardless of the target's profession."
+Scepter Proficiency,Thief,Specter,Minor Proficiency,You can wield scepters in your main hand.
+Specter,Thief,Specter,Minor Adept,"Unlock scepter. Steal becomes Siphon. Gain access to shadow force through spending initiative, and gain access to Shadow Shroud ability."
+Second Opinion,Thief,Specter,Major Adept,"A portion of condition damage is converted to healing power. Gain condition damage, which is increased while wielding a scepter."
+Shallow Grave,Thief,Specter,Major Adept,Transfer conditions to an enemy when targeting them with Siphon. Remove conditions from nearby allies and your targeted ally when targeting them with Siphon.
+Consume Shadows,Thief,Specter,Major Adept,Gain stacks of Consume Shadows at regular intervals while in Shadow Shroud. Exiting Shadow Shroud consumes your remaining shadow force and heals allies based on the number of stacks you have gained. Allies that are fully healed receive the rest of the value in barrier.
+Dark Sentry,Thief,Specter,Minor Master,Apply Rot Wallow Venom to allies you grant barrier to. Outgoing healing to allies is increased. Rot Wallow Venom effect cannot apply to yourself.
+Larcenous Torment,Thief,Specter,Major Master,Steal health and gain shadow force when you torment a foe. Does not grant shadow force while in shroud.
+Amplified Siphoning,Thief,Specter,Major Master,Gain increased shadow force when hitting a foe with Siphon. Grant increased barrier when targeting an ally.
+Traversing Dusk,Thief,Specter,Major Master,Heal allies in the area around you when you shadowstep. Gain shadow force for each ally in the radius. Wells grant resistance on their initial impact.
+Panaku's Ambition,Thief,Specter,Minor Grandmaster,Gain barrier when you strike foes with a stealth attack. When you apply stealth to allies you also grant them barrier. This effect can only be received once and will reset when stealth is removed.
+Strength of Shadows,Thief,Specter,Major Grandmaster,Gain expertise based on a percentage of your vitality. Torment you inflict deals increased damage.
+Hungering Darkness,Thief,Specter,Major Grandmaster,"While in shroud, transfer conditions from your tethered ally and cleanse conditions from yourself. Each condition removed in this fashion heals a percentage of your base health and grants your tethered ally barrier."
+Shadestep,Thief,Specter,Major Grandmaster,Shadow Shroud skills provide additional supportive effects to nearby allies and your tethered ally.
+Trinket Collector,Thief,Antiquary,Minor Adept,"Steal is replaced with Skritt Swipe, allowing you to pilfer from enemies. Successfully pilfering grants one offensive and one defensive artifact. Only one artifact may be used each time you pilfer, and pilfering overrides any artifacts you already have."
+Card Swap,Thief,Antiquary,Major Adept,Gain access to Reshuffle. Remove conditions from yourself whenever you reshuffle your artifacts or use an artifact skill.
+Repeat Ransacker,Thief,Antiquary,Major Adept,Reduce the recharge of Skritt Swipe whenever you use an artifact.
+Prolific Plunderer,Thief,Antiquary,Major Adept,"Gain an additional artifact slot. Whenever you pilfer, you gain an additional, random artifact. You can use one additional artifact when you pilfer with Skritt Swipe."
+Magpie's Defense,Thief,Antiquary,Minor Master,Grant yourself barrier when you use a healing or elite skill. The cooldowns for this trait are separate for healing and elite skills.
+Scoundrel's Luck,Thief,Antiquary,Major Master,"Gain Scoundrel's Luck whenever you use Skritt Swipe, Scoundrel's Luck allows you to use Double Edge skills on cooldown without backfiring."
+Meticulous Custodian,Thief,Antiquary,Major Master,Your artifacts have increased effectiveness.  Beneficial artifact effects last longer.
+Exhilarating Ephemera,Thief,Antiquary,Major Master,Gain increased damage for a period of time after using an artifact.
+Enterprising Aristocrat,Thief,Antiquary,Minor Grandmaster,Gain initiative and barrier whenever you use an artifact skill. You take reduced strike and condition damage whenever you have barrier.
+Prodigious Pincher,Thief,Antiquary,Major Grandmaster,You pilfer after using a certain amount of initiative. This trait will override any existing artifacts when triggered.
+Possessive Hoarder,Thief,Antiquary,Major Grandmaster,Artifacts grant boons to allies when used. Offensive and defensive artifacts grant different boons. Barrier granted through Magpie's Defense and Enterprising Aristocrat is now also granted to allies as well.
+Combat High,Thief,Antiquary,Major Grandmaster,"Gain Combat High when you use Skritt Swipe, increasing your outgoing strike and condition damage. Lose stacks of Combat High every interval."
+Empowering Flame,Elementalist,Fire,Minor Adept,Gain power while in fire attunement.
+Burning Precision,Elementalist,Fire,Major Adept,Burning you inflict has increased duration and your critical hits gain a chance to inflict burning.
+Conjurer,Elementalist,Fire,Major Adept,Gain fire aura when an ally picks up a conjured weapon.
+Burning Fire,Elementalist,Fire,Major Adept,Cast Lesser Cleansing Fire when you have a number of conditions on you.
+Sunspot,Elementalist,Fire,Minor Master,"Gain a fire aura, and damage nearby foes when you attune to fire. Also triggers on overload skills."
+Burning Rage,Elementalist,Fire,Major Master,"Sunspot inflicts burning, and its radius is increased. Your condition damage is increased."
+Smothering Auras,Elementalist,Fire,Major Master,"Fire auras have increased duration. Applying auras to allies removes conditions, and transmuting auras removes conditions from nearby allies."
+Power Overwhelming,Elementalist,Fire,Major Master,"While at or above the might threshold, gain increased power. Power bonuses are doubled while attuned to fire."
+Pyromancer's Training,Elementalist,Fire,Minor Grandmaster,Your fire -weapon skills gain reduced recharge. Deal increased strike damage to burning foes.
+Persisting Flames,Elementalist,Fire,Major Grandmaster,"Fire fields created by weapon skills last longer. Whenever your fire fields hit a foe or you inflict burning, gain increased strike damage for a duration."
+Pyromancer's Puissance,Elementalist,Fire,Major Grandmaster,"Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion."
+Inferno,Elementalist,Fire,Major Grandmaster,Burning you inflict scales off of your power instead of your condition damage.
+Zephyr's Speed,Elementalist,Air,Minor Adept,"Your chance to critically strike is increased. While attuned to air, your movement speed is also increased."
+Zephyr's Boon,Elementalist,Air,Major Adept,Grant boons to allies you grant auras to.
+One with Air,Elementalist,Air,Major Adept,Gain superspeed when attuning to air.
+Ferocious Winds,Elementalist,Air,Major Adept,Gain ferocity based on your precision.
+Electric Discharge,Elementalist,Air,Minor Master,Strike your target with a bolt of lightning when attuning to air. Also triggers on overload skills.
+Inscription,Elementalist,Air,Major Master,Gain boons upon casting a glyph based on your attunement. Gain resistance when attuning to air.
+Raging Storm,Elementalist,Air,Major Master,Critically striking a foe grants fury. Gain ferocity while under the effects of fury.
+Stormsoul,Elementalist,Air,Major Master,"Deal increased strike damage to disabled or defiant foes. Outgoing stun duration increased. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Aeromancer's Training,Elementalist,Air,Minor Grandmaster,"Gain ferocity, and gain additional ferocity while attuned to air. Air weapon skills get a reduced recharge time."
+Bolt to the Heart,Elementalist,Air,Major Grandmaster,Deal increased strike damage to enemies below the health threshold.
+Fresh Air,Elementalist,Air,Major Grandmaster,Recharge air attunement on a critical hit. Gain a ferocity boost when attuning to air.
+Lightning Rod,Elementalist,Air,Major Grandmaster,"Cast Lightning Rod when you disable a foe. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Stone Flesh,Elementalist,Earth,Minor Adept,Strike damage taken is reduced while attuned to earth.
+Earth's Embrace,Elementalist,Earth,Major Adept,Gain resistance after using a healing skill.
+Serrated Stones,Elementalist,Earth,Major Adept,Bleeding you inflict has increased duration. Deal increased damage to bleeding foes.
+Elemental Shielding,Elementalist,Earth,Major Adept,Auras you grant to allies also grant protection.
+Earthen Blast,Elementalist,Earth,Minor Master,Gain barrier and cripple nearby foes when attuning to earth. Also triggers on overload skills. Barrier will not be gained when attuning to the same element.
+Strength of Stone,Elementalist,Earth,Major Master,Gain condition damage based on your toughness. Inflict bleeding when you immobilize a foe. Bleeding can only occur on the same target once per interval.
+Rock Solid,Elementalist,Earth,Major Master,Grant stability to nearby allies when attuning to earth. Note: This effect will not trigger when attuning to the same element.
+Earthen Blessing,Elementalist,Earth,Major Master,Decrease the duration of movement-impairing conditions applied to you. Restore endurance when you receive one of these conditions.
+Geomancer's Training,Elementalist,Earth,Minor Grandmaster,Strike damage from nearby foes is reduced. Earth weapon skills gain reduced recharge.
+Diamond Skin,Elementalist,Earth,Major Grandmaster,Remove conditions from yourself when you successfully combo a field with a leap finisher. Remove conditions from nearby allies when you successfully combo a field with a blast finisher.
+Written in Stone,Elementalist,Earth,Major Grandmaster,Signets continue to grant their passive bonuses while recharging. Gain an aura when you use a signet skill.
+Stone Heart,Elementalist,Earth,Major Grandmaster,You take reduced strike damage for a duration of time after entering or exiting earth attunement. Remaining effect duration is lost when exiting.
+Soothing Mist,Elementalist,Water,Minor Adept,You and nearby allies recover health while you are attuned to water.
+Soothing Ice,Elementalist,Water,Major Adept,Gain regeneration and frost aura when using a healing skill.
+Piercing Shards,Elementalist,Water,Major Adept,Vulnerability you inflict has increased duration. Deal increased strike damage to vulnerable foes. Damage bonus is doubled while attuned to water.
+"Stop, Drop, and Roll",Elementalist,Water,Major Adept,Dodging removes burning and chilled from nearby allies.
+Healing Ripple,Elementalist,Water,Minor Master,"Heal nearby allies when attuning to water. This effect will not trigger when attuning to the same element, but will be triggered by overload skills."
+Soothing Disruption,Elementalist,Water,Major Master,Cantrips grant boons.
+Cleansing Wave,Elementalist,Water,Major Master,Remove conditions from nearby allies when attuning to water.
+Flow like Water,Elementalist,Water,Major Master,"Deal increased strike damage, which is further increased while your health is above the threshold. Blocking or evading an attack heals you."
+Aquamancer's Training,Elementalist,Water,Minor Grandmaster,Increase healing to other allies. Water -weapon skills gain reduced recharge.
+Cleansing Water,Elementalist,Water,Major Grandmaster,Cleanse conditions from allies you grant regeneration to.
+Powerful Aura,Elementalist,Water,Major Grandmaster,Any aura you grant yourself is granted to nearby allies.
+Soothing Power,Elementalist,Water,Major Grandmaster,Gain vitality. Soothing Mist is more effective.
+Arcane Prowess,Elementalist,Arcane,Minor Adept,Gain boons when you switch attunements.
+Arcane Precision,Elementalist,Arcane,Major Adept,Your critical strikes have a chance to inflict a condition based on your attunement.
+Renewing Stamina,Elementalist,Arcane,Major Adept,Gain vigor when you critically strike a foe.
+Arcane Restoration,Elementalist,Arcane,Major Adept,Swapping attunements restores health.
+Elemental Attunement,Elementalist,Arcane,Minor Master,Grant a boon to nearby allies when changing attunements. Note: This effect will not trigger when attuning to the same element.
+Arcane Resurrection,Elementalist,Arcane,Major Master,"Cast Geyser when you begin reviving a downed ally. Geyser now partially revives downed allies. When you begin reviving an ally, you gain an aura based on your attunement."
+Elemental Lockdown,Elementalist,Arcane,Major Master,"When you disable a foe, gain a boon based upon your current attunement."
+Final Shielding,Elementalist,Arcane,Major Master,Cast Lesser Arcane Shield when you use an elite skill.
+Elemental Enchantment,Elementalist,Arcane,Minor Grandmaster,Gain concentration and your attunements gain reduced recharge.
+Evasive Arcana,Elementalist,Arcane,Major Grandmaster,Cast a skill when you dodge based on your attunement.
+Arcane Lightning,Elementalist,Arcane,Major Grandmaster,Arcane skills grant increased ferocity and have additional effects.
+Bountiful Power,Elementalist,Arcane,Major Grandmaster,Gain charges when changing attunements. Gain a burst of power when you reach the maximum number of charges.
+Warhorn Proficiency,Elementalist,Tempest,Minor Proficiency,You can wield the warhorn weapon.
+Singularity,Elementalist,Tempest,Minor Adept,"Attain elemental singularity by remaining in an attunement for a period of time. Upon attaining singularity, you may overload the attunement to your vicinity. Gain access to Shouts."
+Gale Song,Elementalist,Tempest,Major Adept,Grant protection to nearby allies when you use a healing skill.
+Latent Stamina,Elementalist,Tempest,Major Adept,Grant vigor to nearby allies when attuning to water. Restore endurance to allies you grant vigor.
+Unstable Conduit,Elementalist,Tempest,Major Adept,Overloads grant an aura based on your attunement.
+Gathered Focus,Elementalist,Tempest,Minor Master,Your concentration is increased.
+Tempestuous Aria,Elementalist,Tempest,Major Master,Using a shout grants allies might. Granting an aura to an ally increases your outgoing damage for a period of time.
+Harmonious Conduit,Elementalist,Tempest,Major Master,Gain stability and swiftness when starting an overload.
+Invigorating Torrents,Elementalist,Tempest,Major Master,Auras you grant also grant regeneration and vigor.
+Hardy Conduit,Elementalist,Tempest,Minor Grandmaster,Overloads grant protection to nearby allies. Protection gains increased damage reduction.
+Transcendent Tempest,Elementalist,Tempest,Major Grandmaster,"Time to attain singularity is reduced. Upon successfully completing an overload, gain increased damage."
+Lucid Singularity,Elementalist,Tempest,Major Grandmaster,Apply boons to nearby allies while channeling and when successfully completing a channel.
+Elemental Bastion,Elementalist,Tempest,Major Grandmaster,Heal allies you grant an aura to. Grant frost aura to nearby allies when struck while below the health threshold.
+Sword Proficiency,Elementalist,Weaver,Minor Proficiency,You can wield swords in your main hand.
+Weaver,Elementalist,Weaver,Minor Adept,"Your active attunement is now applied to your main hand, with the old attunement moving to your off hand. Attunement recharges are reduced. Gain access to Dual Attack and the Stance utility types."
+Superior Elements,Elementalist,Weaver,Major Adept,Dual Attack skills weaken enemies. Attacks against weakened foes have increased critical chance.
+Elemental Pursuit,Elementalist,Weaver,Major Adept,"Swiftness on you is improved. Gain swiftness when you disable an enemy. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Weaver's Prowess,Elementalist,Weaver,Major Adept,Gain resistance when you attune to a single element.
+Elemental Refreshment,Elementalist,Weaver,Minor Master,Gain vitality. Grant barrier to yourself when using Dual Attack skills.
+Master's Fortitude,Elementalist,Weaver,Major Master,Gain barrier when you dodge.
+Swift Revenge,Elementalist,Weaver,Major Master,Dual Attacks grant you additional bonuses based on their elements.
+Bolstered Elements,Elementalist,Weaver,Major Master,Gain protection when activating a Stance. Activate Lesser Stone Resonance when using an elite skill.
+Elemental Polyphony,Elementalist,Weaver,Minor Grandmaster,"Gain attributes based on your current attunement. When dual attuned, gain both benefits."
+Elements of Rage,Elementalist,Weaver,Major Grandmaster,Gain a bonus to all damage dealt for a period of time when attuned to a single element. Gain access to Unravel.
+Woven Stride,Elementalist,Weaver,Major Grandmaster,Gain regeneration and cleanse a condition when you grant yourself either swiftness or superspeed.
+Flow State,Elementalist,Weaver,Major Grandmaster,Your attunements and Dual Attack skills gain reduced recharge. This attunement recharge reduction will not take effect while Weave Self is active.
+Hammer Proficiency,Elementalist,Catalyst,Minor Proficiency,You can wield hammers.
+Depth of Elements,Elementalist,Catalyst,Minor Adept,"Build up elemental energy when you strike foes. Energy is consumed to imbue the Jade Sphere with different elements, creating combo fields and granting boons to allies in the area. Gain access to Augments."
+Hardened Auras,Elementalist,Catalyst,Major Adept,"Damage reduction is increased when you grant yourself an aura. When this triggers, the duration of all stacks are refreshed."
+Vicious Empowerment,Elementalist,Catalyst,Major Adept,Gain Elemental Empowerment and might when you disable or immobilize a foe.
+Energized Elements,Elementalist,Catalyst,Major Adept,Gain energy and boons when you switch attunements. Energy can only be gained while in combat.
+Elemental Empowerment,Elementalist,Catalyst,Minor Master,Gain Elemental Empowerment while in combat.
+Empowering Auras,Elementalist,Catalyst,Major Master,"Gain increased outgoing damage when you grant yourself an aura. When this triggers, the duration of all stacks are refreshed."
+Evasive Empowerment,Elementalist,Catalyst,Major Master,Gain Elemental Empowerment and vigor when evading an attack.
+Spectacular Sphere,Elementalist,Catalyst,Major Master,Your jade sphere is larger and grants quickness [ sic ] and an additional boon based on your current attunement to nearby allies when activated.
+Elemental Epitome,Elementalist,Catalyst,Minor Grandmaster,Gain an aura based on your current attunement when you combo. Gain Elemental Empowerment when you grant yourself an aura. Auras can be gained this way once per attunement per interval.
+Elemental Synergy,Elementalist,Catalyst,Major Grandmaster,Gain a bonus effect when you finish a combo. Bonuses can trigger once per attunement per interval.
+Empowered Empowerment,Elementalist,Catalyst,Major Grandmaster,"Elemental Empowerment is more effective. While at maximum stacks of Elemental Empowerment, its effectiveness is increased further."
+Sphere Specialist,Elementalist,Catalyst,Major Grandmaster,Boons applied by your Jade Sphere have increased duration. You can now gain energy while jade spheres are active.
+Evocation,Elementalist,Evoker,Minor Adept,"Select an element to specialize in, greatly reducing its recharge time and gaining a familiar of that element. The familiar's basic skill charges as you use weapon skills, charging more rapidly when you use a weapon skill of its element. Using the familiar's basic skill three times will enable its empowered skill. Gain access to meditation skills."
+Fiery Might,Elementalist,Evoker,Major Adept,Deal increased strike damage to burning foes.
+Altruistic Aspect,Elementalist,Evoker,Major Adept,Meditation skills grant boons to allies.
+Spirit's Succor,Elementalist,Evoker,Major Adept,Heal yourself when you use a familiar skill.
+Enhanced Potency,Elementalist,Evoker,Minor Master,Improve a boon based on your familiar.
+Familiar's Focus,Elementalist,Evoker,Major Master,Familiar's Prowess is improved.
+Familiar's Blessing,Elementalist,Evoker,Major Master,Grant boons to nearby allies when you use a familiar skill.
+Elemental Dynamo,Elementalist,Evoker,Major Master,Gain one familiar charge when attuning to your selected element.
+Familiar's Prowess,Elementalist,Evoker,Minor Grandmaster,Gain a temporary bonus after using a familiar skill.
+Galvanic Enchantment,Elementalist,Evoker,Major Grandmaster,"After you use a familiar skill, your next strike creates an arc of chain lightning. Chain lightnings created by evoker skills inflict burning."
+Elemental Balance,Elementalist,Evoker,Major Grandmaster,"Every second time you enter your selected attunement, the next elementalist weapon skill you use will recharge faster."
+Specialized Elements,Elementalist,Evoker,Major Grandmaster,"You cannot leave your selected attunement. Your familiar 's basic skill recharges more quickly, and activating it recharges your weapon skills by a small amount. Activating your familiar's empowered skill recharges your weapon skills and triggers traits as if you entered the attunement."
+Illusion of Vulnerability,Mesmer,Domination,Minor Adept,Inflict vulnerability when you interrupt a foe. This trait can only affect enemies with defiance bars once per interval.
+Bountiful Blades,Mesmer,Domination,Major Adept,"Improves greatsword skills. Mirror Blade bounces additional times, and Phantasmal Berserker summons an additional berserker and deals less damage."
+Empowered Illusions,Mesmer,Domination,Major Adept,Illusions deal increased strike damage.
+Rending Shatter,Mesmer,Domination,Major Adept,Shatter skills inflict vulnerability on hit.
+Dazzling,Mesmer,Domination,Minor Master,"Disabling a foe also applies vulnerability. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Shattered Concentration,Mesmer,Domination,Major Master,Shatter skills also remove a boon on hit.
+Egotism,Mesmer,Domination,Major Master,Deal increased strike damage to foes with a lower health percentage than you.
+Furious Interruption,Mesmer,Domination,Major Master,Gain quickness when you interrupt a foe.
+Fragility,Mesmer,Domination,Minor Grandmaster,Deal increased strike damage for each stack of vulnerability on your target.
+Vicious Expression,Mesmer,Domination,Major Grandmaster,"You and your illusions deal increased strike damage. Strike damage is further increased against foes without boons. Disabling a foe removes boons from them. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Mental Anguish,Mesmer,Domination,Major Grandmaster,Shatter skills deal more damage. This bonus damage is doubled against foes that are not activating skills.
+Power Block,Mesmer,Domination,Major Grandmaster,Interrupts deal damage and inflict weakness while granting you a damage increase. This trait can only damage enemies with defiance bars once per interval.
+Critical Infusion,Mesmer,Dueling,Minor Adept,Gain vigor when delivering a critical hit.
+Phantasmal Fury,Mesmer,Dueling,Major Adept,Your phantasms have fury.
+Mental Gymnastics,Mesmer,Dueling,Major Adept,"When you successfully evade an attack, gain vigor."
+Duelist's Discipline,Mesmer,Dueling,Major Adept,Interrupting a foe recharges pistol skills. This trait can only reduce recharge on enemies with defiance bars once per interval.
+Sharper Images,Mesmer,Dueling,Minor Master,Illusions inflict bleeding on critical hits.
+Blinding Dissipation,Mesmer,Dueling,Major Master,Shatter skill 2 inflicts blindness.
+Wandering Mind,Mesmer,Dueling,Major Master,Remove a nondamaging condition and gain swiftness whenever you evade an attack.
+Fencer's Finesse,Mesmer,Dueling,Major Master,Gain a stacking ferocity effect when you or one of your illusions strikes with a one-handed sword or an underwater spear. Reduces recharge on sword and underwater spear skills.
+Master Fencer,Mesmer,Dueling,Minor Grandmaster,Grant fury to yourself and nearby allies when you critically strike an enemy.
+Superiority Complex,Mesmer,Dueling,Major Grandmaster,"Your critical hits deal more damage. Critical hit damage against disabled foes, or foes below the health threshold, is further increased. Disabled foes are affected by stun, daze, knockback, pull, knockdown, sink, float, fear, taunt, or launch."
+Ineptitude,Mesmer,Dueling,Major Grandmaster,"Interrupting a foe inflicts blind, and blinding a foe inflicts confusion. This trait can only activate on enemies with defiance bars once per interval."
+Deceptive Evasion,Mesmer,Dueling,Major Grandmaster,Create a clone at your current position when you dodge.
+Metaphysical Rejuvenation,Mesmer,Chaos,Minor Adept,Grant regeneration to nearby allies when you use a healing skill.
+Method of Madness,Mesmer,Chaos,Major Adept,Cast Lesser Chaos Storm when you use a healing skill.
+Illusionary Defense,Mesmer,Chaos,Major Adept,Grant protection to nearby allies when you use Shatter skill 2.
+Master of Manipulation,Mesmer,Chaos,Major Adept,Manipulations grant aegis to yourself and nearby allies.
+Illusionary Membrane,Mesmer,Chaos,Minor Master,Gain chaos aura when you use your Shatter skill 2. Chaos aura grants you increased condition damage for a period of time.
+Auspicious Anguish,Mesmer,Chaos,Major Master,"Convert damaging conditions to boons whenever you gain Distortion or become disabled. This trait can only trigger when disabled once per interval. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Chaotic Interruption,Mesmer,Chaos,Major Master,"When you interrupt a foe, recharge one of your equipped-weapon skills at random. Only affects weapon skills that are recharging."
+Chaotic Transference,Mesmer,Chaos,Major Master,Gaining chaos aura grants boons to nearby allies.
+Chaotic Persistence,Mesmer,Chaos,Minor Grandmaster,Gain concentration and expertise while affected by regeneration.
+Shaper of Chaos,Mesmer,Chaos,Major Grandmaster,"When you grant yourself chaos aura, if you already have chaos aura, detonate your chaos aura to grant yourself boons and inflict conditions on enemies."
+Prismatic Understanding,Mesmer,Chaos,Major Grandmaster,"Increased stealth duration from mesmer skills. Shatter skill 4 grants stealth. Gain regeneration upon entering stealth, and gain protection and resolution upon exiting stealth."
+Bountiful Disillusionment,Mesmer,Chaos,Major Grandmaster,Gain stability when you use a Shatter skill. Grant an additional boon to nearby allies based on which Shatter is used.
+Mender's Purity,Mesmer,Inspiration,Minor Adept,Cast Lesser Power Cleanse when you use a healing skill.
+Medic's Feedback,Mesmer,Inspiration,Major Adept,Cast Feedback while reviving an ally. Feedback revives allies inside its dome.
+Restorative Mantras,Mesmer,Inspiration,Major Adept,Heals allies around you when you use a charge of a Mantra.
+Sympathetic Visage,Mesmer,Inspiration,Major Adept,Phantasms take your conditions from you when summoned.
+Inspiring Distortion,Mesmer,Inspiration,Minor Master,Grant aegis to other nearby allies whenever you give yourself distortion or use Shatter skill 4.
+Warden's Feedback,Mesmer,Inspiration,Major Master,Focus weapon skills reflect projectiles. Reduces recharge on focus weapon skills.
+Ego Restoration,Mesmer,Inspiration,Major Master,Create a clone when you use a healing skill.
+Temporal Enchanter,Mesmer,Inspiration,Major Master,"When you cast a glamour, allies near the glamour gain resistance and superspeed."
+Illusionary Inspiration,Mesmer,Inspiration,Minor Grandmaster,Increase healing to other allies. Summoning an illusion heals all allies around you. Virtuoso : Triggers when stocking a blade.
+Mental Defense,Mesmer,Inspiration,Major Grandmaster,Shatter skill 4 grants boons and breaks allies out of stuns.
+Restorative Illusions,Mesmer,Inspiration,Major Grandmaster,Heal and cleanse conditions from yourself and nearby allies when you use a Shatter skill.
+Blurred Inscriptions,Mesmer,Inspiration,Major Grandmaster,"Signets have improved active effects, and activating one grants you distortion."
+Cry of Pain,Mesmer,Illusions,Minor Adept,Shatter skill 2 inflicts more stacks of confusion for an increased duration.
+Shatter Storm,Mesmer,Illusions,Major Adept,Shatter skill 1 becomes an ammo skill.
+Persistence of Memory,Mesmer,Illusions,Major Adept,"When a phantasm becomes a clone, it transfers its boons to you."
+The Pledge,Mesmer,Illusions,Major Adept,Flame bursts from torch skills inflict additional burning.
+Compounding Power,Mesmer,Illusions,Minor Master,Creating an illusion increases your outgoing damage and condition damage for a short duration. Virtuoso : Triggers when stocking a blade.
+Escape Artist,Mesmer,Illusions,Major Master,"When a phantasm is created, grant it distortion."
+Phantasmal Haste,Mesmer,Illusions,Major Master,Phantasms spawn with quickness. Gain quickness when you create a phantasm.
+Maim the Disillusioned,Mesmer,Illusions,Major Master,Shatter skills inflict torment on hit.
+Master of Misdirection,Mesmer,Illusions,Minor Grandmaster,Shatter skills gain recharge reduction.
+Phantasmal Force,Mesmer,Illusions,Major Grandmaster,Phantasms deal increased strike damage for each stack of might you have. Gain might when your phantasms become clones.
+Master of Fragmentation,Mesmer,Illusions,Major Grandmaster,Your Shatter skills are improved.
+Malicious Sorcery,Mesmer,Illusions,Major Grandmaster,"Confusion you inflict has increased duration. When you dodge an attack, inflict confusion on your attacker."
+Shield Proficiency,Mesmer,Chronomancer,Minor Proficiency,You can wield shield items.
+Time Splitter,Mesmer,Chronomancer,Minor Adept,Gain access to chronomancer shatter skills and Wells.
+Delayed Reactions,Mesmer,Chronomancer,Major Adept,"Disabling a foe slows them. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear. This trait can only affect the same enemy with once per interval."
+Time Catches Up,Mesmer,Chronomancer,Major Adept,Activating a Shatter gives your illusions superspeed. Shatters deal increased damage to movement-impaired foes.
+All's Well That Ends Well,Mesmer,Chronomancer,Major Adept,Wells heal allies when they end.
+Flow of Time,Mesmer,Chronomancer,Minor Master,Gain alacrity for each clone you shatter. Gain increased critical-strike chance for you and your clones [ sic ] when you have alacrity.
+Danger Time,Mesmer,Chronomancer,Major Master,"When you inflict slow, you and your clones ' outgoing critical-strike damage is increased for a duration."
+Illusionary Reversion,Mesmer,Chronomancer,Major Master,Shatter skills generate a clone and grant alacrity if you have enough clones present.
+Time Bomb,Mesmer,Chronomancer,Major Master,Enemies struck by Time Sink are affixed with a time bomb. Time bombs increase your strike damage dealt to the target and explode when they expire. Only a certain number of time bombs may be active at once.
+Time Marches On,Mesmer,Chronomancer,Minor Grandmaster,You move 25% faster. Alacrity applied to you is stronger.
+Stretched Time,Mesmer,Chronomancer,Major Grandmaster,Nearby allies gain boons for each clone you shatter. Grant boons to nearby allies when you summon a phantasm.
+Seize the Moment,Mesmer,Chronomancer,Major Grandmaster,You and nearby allies gain quickness for each clone you shatter. Grant quickness to nearby allies when you summon a phantasm.
+Chronophantasma,Mesmer,Chronomancer,Major Grandmaster,"The first time a phantasm would become a clone, it instead resummons itself and attacks again. Resummoned phantasms inflict a percentage of the original's damage. (Resummoned phantasms are briefly dazed.)"
+Axe Proficiency,Mesmer,Mirage,Minor Proficiency,You can wield an axe in your main hand.
+Mirage Cloak,Mesmer,Mirage,Minor Adept,Gain Mirage Cloak instead of dodge rolling. Ambush skills become available for a short time whenever you gain Mirage Cloak. Gain access to Deception skills.
+Self-Deception,Mesmer,Mirage,Major Adept,Using a Deception skill will create a clone if you have any other clones active.
+Renewing Oasis,Mesmer,Mirage,Major Adept,Gain regeneration when you gain Mirage Cloak. The duration of incoming damaging conditions is reduced while you are regenerating.
+Riddle of Sand,Mesmer,Mirage,Major Adept,"When entering combat, your first Ambush attack applies confusion. This ability refreshes when you use a Shatter skill."
+Nomad's Endurance,Mesmer,Mirage,Minor Master,Shatter skills give vigor. Strike and condition damage dealt is increased when you have vigor.
+Desert Distortion,Mesmer,Mirage,Major Master,Illusions shattered by Distortion become Mirage Mirrors. Ambush skills become available for a short time whenever you grant distortion to yourself.
+Mirage Mantle,Mesmer,Mirage,Major Master,Ambush skills you use grant boons to nearby allies.
+Phantom Pain,Mesmer,Mirage,Major Master,"Gain a damage increase when you use a Shatter skill, increasing per clone shattered."
+Speed of Sand,Mesmer,Mirage,Minor Grandmaster,Mirage Cloak increases your movement speed.
+Infinite Horizon,Mesmer,Mirage,Major Grandmaster,"When you gain Mirage Cloak, your illusions also gain it."
+Elusive Mind,Mesmer,Mirage,Major Grandmaster,Lose conditions when you gain Mirage Cloak.
+Dune Cloak,Mesmer,Mirage,Major Grandmaster,Shatter skills grant Mirage Cloak if you have enough clones present. Gaining Mirage Cloak recharges Mind Wrack and Cry of Frustration.
+Dagger Proficiency,Mesmer,Virtuoso,Minor Proficiency,You can wield daggers.
+Psychic Blades,Mesmer,Virtuoso,Minor Adept,"Whenever a clone would be summoned, you instead stock a blade. Blades persist indefinitely until used. Your shatters are replaced with Bladesongs that consume your stocked blades, but still count as shatters for the purposes of core traits. While out of combat, you will automatically stock a blade every 10 seconds."
+Bladeturn Refrain,Mesmer,Virtuoso,Major Adept,Bladesongs grant aegis.
+Mental Focus,Mesmer,Virtuoso,Major Adept,Strike damage is increased against foes within the range threshold.
+Jagged Mind,Mesmer,Virtuoso,Major Adept,Blade attacks inflict bleeding on critical hits. A percentage of your condition damage dealt heals you.
+Deadly Blades,Mesmer,Virtuoso,Minor Master,"Blades inflict vulnerability on critical hits. After successfully casting a Bladesong, increase all damage dealt for a short time. This does not stack."
+Duelist's Reversal,Mesmer,Virtuoso,Major Master,Blocking or dodging an attack grants boons.
+Phantasmal Blades,Mesmer,Virtuoso,Major Master,Phantasms that successfully complete their attack launch a blade at their target and grant you fury when they expire.
+Sharpening Sorrow,Mesmer,Virtuoso,Major Master,Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.
+Quiet Intensity,Mesmer,Virtuoso,Minor Grandmaster,Fury gives an increased critical chance. Gain ferocity based on your vitality.
+Psychic Riposte,Mesmer,Virtuoso,Major Grandmaster,Blocking or evading an attack stocks blades. Dodging stocks a blade.
+Infinite Forge,Mesmer,Virtuoso,Major Grandmaster,"Automatically stock blades while in combat. When you use bladesong above the blade threshold, refund blades. Blade attacks deal more damage."
+Bloodsong,Mesmer,Virtuoso,Major Grandmaster,Bleeding you apply deals increased damage. Stock a blade after applying enough stacks of bleeding to foes.
+Wandering Minstrel,Mesmer,Troubadour,Minor Adept,"Build up notes instead of summoning illusions. Shatters are replaced by instrument skills, which consume notes to continue playing. Gain access to Tales. While out of combat, you will automatically generate a note every 10 seconds."
+Mayhem,Mesmer,Troubadour,Major Adept,Flustering Flute now applies torment. Dodging reduces the recharge of Flustering Flute.
+Raconteur,Mesmer,Troubadour,Major Adept,Tales heal and grant protection to nearby allies.
+Syncopate,Mesmer,Troubadour,Major Adept,Deafening Drum releases an additional quick wave after a delay. Deal damage to enemies you disable.
+Symphonic Resonance,Mesmer,Troubadour,Minor Master,Instruments provide bonuses while playing in the background.
+Shredding,Mesmer,Troubadour,Major Master,Lively Lute fires an additional wave at your enemy. The lute's damage bonus is increased.
+Life of the Party,Mesmer,Troubadour,Major Master,Lively Lute and Crescendo grant boons to affected allies.
+Love Song,Mesmer,Troubadour,Major Master,Harmonious Harp 's distortion lasts longer. Strike damage from nearby enemies is reduced while the harp is playing in the background.
+Harmonize,Mesmer,Troubadour,Minor Grandmaster,Gain a note when you use a phantasm skill.
+Fortissimo,Mesmer,Troubadour,Major Grandmaster,"After using Crescendo, gain a note every interval for a duration. Gain increased attributes for each instrument you have playing."
+Call and Response,Mesmer,Troubadour,Major Grandmaster,"When you use an instrument above the note threshold, create an afterimage that plays that instrument after a delay."
+Altered Chord,Mesmer,Troubadour,Major Grandmaster,"Crescendo prompts your last-played instrument to take the spotlight, augmenting Crescendo's effects. Playing an instrument recharges Crescendo if a note was consumed."
+Reaper's Might,Necromancer,Spite,Minor Adept,Shroud skill 1 grants might.
+Spiteful Talisman,Necromancer,Spite,Major Adept,Your strike damage is increased. Strike damage is further increased against foes without boons.
+Malicious Swarm,Necromancer,Spite,Major Adept,Cast Lesser Signet of the Locust when you use a healing skill.
+Bitter Chill,Necromancer,Spite,Major Adept,Chilling a foe inflicts vulnerability.
+Awaken the Pain,Necromancer,Spite,Minor Master,Might grants you more power. Gain might when entering shroud.
+Chill of Death,Necromancer,Spite,Major Master,Cast Lesser Spinal Shivers on a foe when attacking them while their health is below the threshold.
+Spiteful Fortitude,Necromancer,Spite,Major Master,Gain vitality based on a percentage of your power. Gain life force when you strike a foe below the health threshold.
+Signets of Suffering,Necromancer,Spite,Major Master,Signets steal health and remove boons from affected foes. Siphon healing is reduced for each target struck beyond the first.
+Siphoned Power,Necromancer,Spite,Minor Grandmaster,Gain might when you strike a foe below the health threshold.
+Dread,Necromancer,Spite,Major Grandmaster,Inflicting fear on a foe gives you boons and increases your strike damage for a short time.
+Close to Death,Necromancer,Spite,Major Grandmaster,Deal increased strike damage to enemies below the health threshold.
+Spiteful Spirit,Necromancer,Spite,Major Grandmaster,Strike around you when entering shroud.
+Barbed Precision,Necromancer,Curses,Minor Adept,Critical hits have a chance to cause bleeding. Increases bleed duration.
+Insidious Disruption,Necromancer,Curses,Major Adept,"Disabling a foe inflicts torment on them. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear."
+Plague Sending,Necromancer,Curses,Major Adept,Your first attack after entering shroud transfers conditions. Only activates if you have conditions.
+Chilling Darkness,Necromancer,Curses,Major Adept,Blinding a target will also apply chill.
+Furious Demise,Necromancer,Curses,Minor Master,Gain fury when entering shroud. Gain additional precision.
+Master of Corruption,Necromancer,Curses,Major Master,Corruptions gain reduced recharge time and inflict additional conditions on you.
+Path of Corruption,Necromancer,Curses,Major Master,Shroud skill 2 now additionally converts boons into conditions.
+Parasitic Contagion,Necromancer,Curses,Major Master,A percentage of your condition damage heals you. Healing will not occur while life force replaces health.
+Target the Weak,Necromancer,Curses,Minor Grandmaster,Increases critical-hit chance for each condition on the foe. Gain condition damage based on your precision.
+Weakening Shroud,Necromancer,Curses,Major Grandmaster,Cast Weakening Shroud when entering shroud. Critical hits inflict weakness.
+Terror,Necromancer,Curses,Major Grandmaster,Fear you inflict deals damage each second.
+Lingering Curse,Necromancer,Curses,Major Grandmaster,"Your condition damage is increased. Conditions inflicted by scepter skills have longer durations, and Feast of Corruption becomes Devouring Darkness."
+Armored Shroud,Necromancer,Death Magic,Minor Adept,Gain carapace when entering shroud.
+Flesh of the Master,Necromancer,Death Magic,Major Adept,Minions have increased health. Gain carapace for each minion you control. Your minions are destroyed when this trait is reassigned.
+Putrid Defense,Necromancer,Death Magic,Major Adept,Poison damage is increased. Applying poison grants carapace.
+Shrouded Removal,Necromancer,Death Magic,Major Adept,Lose a condition when you enter shroud and every few seconds while you remain in shroud. Gain carapace when removing conditions from yourself.
+Soul Comprehension,Necromancer,Death Magic,Minor Master,"Your passive life-force generation from nearby deaths is increased. Kills grant carapace. When you enter shroud, gain life-force per stack of carapace."
+Necromantic Corruption,Necromancer,Death Magic,Major Master,"Minions deal more damage and take conditions from you. When a minion attacks, it transfers conditions to its target. There is a 10 second cooldown per minion."
+Dark Defense,Necromancer,Death Magic,Major Master,Protection reduces incoming condition damage. Gain carapace and protection when you use a healing skill.
+Deadly Strength,Necromancer,Death Magic,Major Master,Carapace stacks grant power and condition damage.
+Beyond the Veil,Necromancer,Death Magic,Minor Grandmaster,Take reduced condition damage while at or above the threshold of carapace stacks.
+Death Nova,Necromancer,Death Magic,Major Grandmaster,"When you or one of your minions is downed, create a Poison Nova. Summon a jagged horror when you kill a foe."
+Corrupter's Fervor,Necromancer,Death Magic,Major Grandmaster,Inflicting a condition on a foe grants carapace. Gain incoming damage reduction while at or above the carapace threshold.
+Unholy Sanctuary,Necromancer,Death Magic,Major Grandmaster,"Regenerate health while in shroud. If your life force is above the threshold, your shroud will activate if you would take a lethal blow."
+Mark of Evasion,Necromancer,Blood Magic,Minor Adept,Leave a Mark of Blood when you dodge.
+Ritual of Life,Necromancer,Blood Magic,Major Adept,Cast Lesser Well of Blood when reviving an ally. Wells of Blood revive allies every pulse.
+Overflowing Thirst,Necromancer,Blood Magic,Major Adept,Dagger skills grant nearby allies Taste for Blood.
+Blood Renewal,Necromancer,Blood Magic,Major Adept,Consume conditions to gain health when you use a healing skill.
+Vampiric,Necromancer,Blood Magic,Minor Master,Siphon health whenever you hit a foe. Minions siphon health and transfer it to you.
+Life from Death,Necromancer,Blood Magic,Major Master,Heal allies in an area when you exit shroud. Increase healing to other allies.
+Banshee's Wail,Necromancer,Blood Magic,Major Master,Warhorn skills gain increased effect duration.
+Vampiric Presence,Necromancer,Blood Magic,Major Master,You and your nearby allies siphon health with attacks. This effect increases while in Shroud.
+Last Rites,Necromancer,Blood Magic,Minor Grandmaster,"As long as you are not downed, allies near you do not bleed out if they are downed. Gain healing power based on your current health."
+Blood Bank,Necromancer,Blood Magic,Major Grandmaster,Gaining health grants a proportionate amount of barrier. Conversion amount increases while at full health.
+Unholy Martyr,Necromancer,Blood Magic,Major Grandmaster,Entering shroud transfers conditions from allies to you. Exiting shroud consumes conditions currently on you and converts them to life force.
+Transfusion,Necromancer,Blood Magic,Major Grandmaster,Marks can be triggered by allies to heal them and provide them with additional benefits. Create Lesser Chilblains at your location when you use your fourth shroud skill.
+Gluttony,Necromancer,Soul Reaping,Minor Adept,Increases the amount of life force gained from all sources.
+Unyielding Blast,Necromancer,Soul Reaping,Major Adept,Shroud skill 1 inflicts vulnerability.
+Soul Marks,Necromancer,Soul Reaping,Major Adept,Marks become unblockable and generate life force when triggered.
+Speed of Shadows,Necromancer,Soul Reaping,Major Adept,Entering shroud grants swiftness and removes movement-impairing conditions.
+Sinister Shroud,Necromancer,Soul Reaping,Minor Master,Shroud skills gain reduced recharge.
+Soul Barbs,Necromancer,Soul Reaping,Major Master,Entering or exiting shroud increases all damage you deal for a duration.
+Vital Persistence,Necromancer,Soul Reaping,Major Master,Gain Vitality. Your incoming healing is increased.
+Fear of Death,Necromancer,Soul Reaping,Major Master,Your fear effects have increased durations. Inflicting fear generates life force.
+Soul Battery,Necromancer,Soul Reaping,Minor Grandmaster,Maximum life force is increased.
+Eternal Life,Necromancer,Soul Reaping,Major Grandmaster,Gain life force every interval up to the threshold when not in shroud. Gain protection when you enter shroud.
+Death Perception,Necromancer,Soul Reaping,Major Grandmaster,Gain increased critical-strike chance. Gain increased critical-strike damage while in shroud.
+Dhuumfire,Necromancer,Soul Reaping,Major Grandmaster,Shroud skill 1 inflicts burning on your target.
+Greatsword Proficiency,Necromancer,Reaper,Minor Proficiency,You can wield greatswords.
+Shroud Knight,Necromancer,Reaper,Minor Adept,"Death Shroud is replaced with Reaper's Shroud, which has more melee-oriented skills and consumes life force at a faster rate. Gain access to shouts."
+Augury of Death,Necromancer,Reaper,Major Adept,Shouts now siphon health. This effect is increased on foes in melee range.
+Chilling Nova,Necromancer,Reaper,Major Adept,Critical hits against chilled foes cause an explosion that chills adjacent foes.
+Relentless Pursuit,Necromancer,Reaper,Major Adept,Reduces duration of movement-impairing conditions. Additional reduction while in reaper's shroud.
+Shivers of Dread,Necromancer,Reaper,Minor Master,"Whenever you inflict fear, you also chill. Chill lasts longer."
+Soul Eater,Necromancer,Reaper,Major Master,Striking foes within the range threshold deals increased strike damage and heals you for a portion of the damage dealt.
+Chilling Victory,Necromancer,Reaper,Major Master,Striking a chilled foe grants might and life force. Single attacks can activate this trait more than once before recharging.
+Decimate Defenses,Necromancer,Reaper,Major Master,Striking a foe with vulnerability increases your critical hit chance.
+Cold Shoulder,Necromancer,Reaper,Minor Grandmaster,Chilled foes take increased strike damage from your attacks and deal less strike damage to you.
+Blighter's Boon,Necromancer,Reaper,Major Grandmaster,Gain life force when you apply a boon to yourself or remove a boon from an enemy.
+Deathly Chill,Necromancer,Reaper,Major Grandmaster,Chill deals damage over time.
+Reaper's Onslaught,Necromancer,Reaper,Major Grandmaster,Gain ferocity and quickness while in Reaper's Shroud. Hitting with Life Reap reduces the recharge time of shroud skills. Recharge reduction can only occur once per use of Life Reap.
+Torch Proficiency,Necromancer,Scourge,Minor Proficiency,You can wield torches.
+Mantle of Sand,Necromancer,Scourge,Minor Adept,Gain the power to craft sand shadows and command them using your life force. Gain access to Punishment and Shade skills. Shade skills inherit the effects of traits that affect shroud skills.
+Abrasive Grit,Necromancer,Scourge,Major Adept,Granting an ally a barrier removes conditions afflicting them and grants might. This effect only occurs with barrier from scourge skills and traits.
+Fell Beacon,Necromancer,Scourge,Major Adept,Burning you inflict does more damage. Gain expertise based on your condition damage.
+Nourishing Ashes,Necromancer,Scourge,Major Adept,"Gain life force when you inflict burning, and remove or corrupt a boon."
+Sand Sage,Necromancer,Scourge,Minor Master,Gain concentration and expertise when you have an active shade.
+Feed from Corruption,Necromancer,Scourge,Major Master,"When you remove or corrupt a boon from an enemy, gain barrier."
+Sadistic Searing,Necromancer,Scourge,Major Master,Nefarious Favor now burns nearby enemy targets.
+Herald of Sorrow,Necromancer,Scourge,Major Master,Desert Shroud becomes Sandstorm Shroud.
+Blood as Sand,Necromancer,Scourge,Minor Grandmaster,Reduce all incoming damage taken when you have a shade active.
+Sand Savant,Necromancer,Scourge,Major Grandmaster,Summon only one shade at a time. This greater shade has a modified recharge. Influence a larger area with shade skills. A greater shade counts as three shades for related traits.
+Demonic Lore,Necromancer,Scourge,Major Grandmaster,Torment you inflict deals increased damage and causes your foes to burn. This trait can only inflict burning on a particular target once every three seconds.
+Desert Empowerment,Necromancer,Scourge,Major Grandmaster,"Manifest Sand Shade grants a barrier to allies near it. When you apply barrier, grant boons to the affected target. This effect only occurs with barrier from scourge skills and traits."
+Pistol Proficiency,Necromancer,Harbinger,Minor Proficiency,You can wield pistols.
+Dark Disciple,Necromancer,Harbinger,Minor Adept,"Death Shroud is replaced with Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack. As you remain in Harbinger Shroud, you accumulate stacking Blight. Blight decreases your maximum health."
+Wicked Corruption,Necromancer,Harbinger,Major Adept,Deal increased strike damage for each stack of blight you have. Critical strikes deal increased damage to targets with torment.
+Bolstering Brew,Necromancer,Harbinger,Major Adept,Elixir skills grant protection.
+Septic Corruption,Necromancer,Harbinger,Major Adept,Deal increased condition damage for each stack of blight you have. Shroud 2 skill also inflicts poison.
+Alchemic Vigor,Necromancer,Harbinger,Minor Master,Gain increased vitality. Heal each second for each stack of blight you have.
+Implacable Foe,Necromancer,Harbinger,Major Master,Gain stability and damage reduction when entering Harbinger Shroud. Gain ferocity based on your vitality.
+Twisted Medicine,Necromancer,Harbinger,Major Master,Elixir skills also grant their boons to allies within the elixir impact radius. Gain concentration based on your vitality.
+Dark Gunslinger,Necromancer,Harbinger,Major Master,Pistol skills gain reduced recharge. Gain expertise based on your vitality.
+Corrupted Talent,Necromancer,Harbinger,Minor Grandmaster,Gain life force when you enter Harbinger Shroud.
+Cascading Corruption,Necromancer,Harbinger,Major Grandmaster,"Gain Cascading Corruption stacks when you consume Blight. When you reach the stack threshold, explode necrotic energy and increase your damage for a duration. Stacks can only be gained in combat and are lost upon leaving combat."
+Deathly Haste,Necromancer,Harbinger,Major Grandmaster,Grant boons to nearby allies when you enter Harbinger Shroud and when you use Dark Barrage.
+Doom Approaches,Necromancer,Harbinger,Major Grandmaster,Blight reduces more of your health and accumulates faster while in shroud. Your shroud skills are improved.
+Spawning Power,Necromancer,Ritualist,Minor Adept,"Death shroud is replaced with ritualist's shroud. Spirits created by shroud skills will persist until you exit shroud. After performing their initial attack, spirits will periodically attack enemies. Gain access to weapon spells."
+Wandering Spirits,Necromancer,Ritualist,Major Adept,Spirits teleport to you before they perform their autoattack.
+Spirit's Gift,Necromancer,Ritualist,Major Adept,Heal nearby allies when you summon a creature. Spirits and minions are creatures.
+Explosive Growth,Necromancer,Ritualist,Major Adept,"When you summon a creature, deal damage to enemies around that creature. Spirits and minions are creatures."
+Boon of Creation,Necromancer,Ritualist,Minor Master,Gain concentration. Gain life force when you summon a creature. Spirits and minions are creatures.
+Spirits' Remedy,Necromancer,Ritualist,Major Master,Remove conditions from nearby allies when you summon a creature. Spirits and minions are creatures.
+Empowering Spirits,Necromancer,Ritualist,Major Master,Grant boons to nearby allies when you summon a spirit.
+Spirit's Strength,Necromancer,Ritualist,Major Master,Your summoned creatures deal more damage and their healing is increased. Spirits and minions are creatures.
+Charged Souls,Necromancer,Ritualist,Minor Grandmaster,"Gain access to spirit innervation skills, allowing you to channel energy to your spirits for an additional effect. Gain life force when you use an innervate skill."
+Wielder's Boon,Necromancer,Ritualist,Major Grandmaster,Weapon spells remove conditions from affected allies. Affected allies receive the full benefit of weapon spells.
+Lingering Spirits,Necromancer,Ritualist,Major Grandmaster,Gain a bonus for each active spirit. Spirits persist when exiting ritualist's shroud but continue to drain life force. Life force that is gained during this time will not be consumed by spirits.
+Soul Twisting,Necromancer,Ritualist,Major Grandmaster,The first spirit skill you use when entering ritualist's shroud recharges instantly.

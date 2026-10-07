@@ -1,0 +1,131 @@
+Name,Derived Bonus 1,,,Derived Bonus 2,,,Karma Bonus,Magic Find Bonus,Gold Bonus,Healthy Bonus,,Shared Bonus 1,,,,Shared Bonus 2,,,,Movement Speed Bonus,Experience Bonus
+,Gain_Stat,Percent,From_Stat,Gain_Stat,Percent,From_Stat,Percent,Percent,Percent,Gain,Gain_Stat,Percent,Gain_Stat,For_Amount,For_Stat,Percent,Gain_Stat,For_Amount,For_Stat,Percent,Percent
+Apprentice Maintenance Oil,Concentration,1%,Precision,,,,,,,,,,,,,,,,,,10%
+Apprentice Tuning Crystal,Condition Damage,1%,Precision,,,,,,,,,,,,,,,,,,10%
+Chatoyant Elixir,,,,,,,,,,,,,,,,,,,,,20%
+Rough Sharpening Stone,Power,1%,Precision,,,,,,,,,,,,,,,,,,10%
+Thesis on Basic Accuracy,,,,,,,,,,40,Precision,,,,,,,,,,10%
+Thesis on Basic Malice,,,,,,,,,,40,Condition Damage,,,,,,,,,,10%
+Thesis on Basic Strength,,,,,,,,,,40,Power,,,,,,,,,,10%
+Writ of Basic Accuracy,,,,,,,,,,40,Precision,,,,,,,,,,10%
+Writ of Basic Malice,,,,,,,,,,40,Condition Damage,,,,,,,,,,10%
+Writ of Basic Strength,,,,,,,,,,40,Power,,,,,,,,,,10%
+Tiny Sharpening Stone,Power,1%,Precision,,,,,,,,,,,,,,,,,,10%
+Skale Venom,,,,,,,,,,,,,,,,,,,,,
+Leviathan Tempering Oil,,,,,,,,,20%,,,,,,,,,,,,10%
+Snow Diamond Ornament,,,,,,,20%,,,,,,,,,,,,,,10%
+Super Sharpening Polygon,,,,,,,,20%,,,,,,,,,,,,,10%
+Serious Potion,,,,,,,5%,5%,5%,,,,,,,,,,,,5%
+Dismounting Potion,,,,,,,5%,5%,5%,,,,,,,,,,,,5%
+Fool's Ocular Tonic,,,,,,,5%,5%,5%,,,,,,,,,,,,5%
+Fool's Tall Tonic,,,,,,,5%,5%,5%,,,,,,,,,,,,5%
+Fool's Dog Treat,,,,,,,5%,5%,5%,,,,,,,,,,,,5%
+Journeyman Maintenance Oil,Concentration,2%,Precision,,,,,,,,,,,,,,,,,,10%
+Journeyman Tuning Crystal,Condition Damage,2%,Precision,,,,,,,,,,,,,,,,,,10%
+Simple Sharpening Stone,Power,2%,Precision,,,,,,,,,,,,,,,,,,10%
+Potent Simple Sharpening Stone,Power,2%,Precision,,,,,,,,,,,,,,,,,,10%
+Swift Moa Feather,,,,,,,,,,,,,,,,,,,,10%,
+Thesis on Accuracy,,,,,,,,,,60,Precision,,,,,,,,,,10%
+Thesis on Malice,,,,,,,,,,60,Condition Damage,,,,,,,,,,10%
+Thesis on Basic Speed,,,,,,,,,,,,,,,,,,,,10%,10%
+Thesis on Strength,,,,,,,,,,60,Power,,,,,,,,,,10%
+Writ of Accuracy,,,,,,,,,,60,Precision,,,,,,,,,,10%
+Writ of Basic Speed,,,,,,,,,,,,,,,,,,,,10%,10%
+Writ of Malice,,,,,,,,,,60,Condition Damage,,,,,,,,,,10%
+Writ of Strength,,,,,,,,,,60,Power,,,,,,,,,,10%
+Standard Maintenance Oil,Concentration,1%,Precision,Concentration,2%,Healing,,,,,,,,,,,,,,,10%
+Potent Standard Sharpening Stone,Power,1%,Precision,Power,3%,Ferocity,,,,,,,,,,,,,,,10%
+Standard Sharpening Stone,Power,1%,Precision,Power,3%,Ferocity,,,,,,,,,,,,,,,10%
+Standard Tuning Crystal,Condition Damage,1%,Precision,Condition Damage,3%,Expertise,,,,,,,,,,,,,,,10%
+Thesis on Studied Accuracy,,,,,,,,,,100,Precision,,,,,,,,,,10%
+Thesis on Studied Malice,,,,,,,,,,100,Condition Damage,,,,,,,,,,10%
+Thesis on Studied Strength,,,,,,,,,,100,Power,,,,,,,,,,10%
+Writ of Studied Accuracy,,,,,,,,,,100,Precision,,,,,,,,,,10%
+Writ of Studied Malice,,,,,,,,,,100,Condition Damage,,,,,,,,,,10%
+Writ of Studied Strength,,,,,,,,,,100,Power,,,,,,,,,,10%
+Artisan Maintenance Oil,Concentration,2%,Precision,Concentration,2%,Healing,,,,,,,,,,,,,,,10%
+Artisan Tuning Crystal,Condition Damage,2%,Precision,Condition Damage,3%,Expertise,,,,,,,,,,,,,,,10%
+Potent Quality Sharpening Stone,Power,2%,Precision,Power,2%,Ferocity,,,,,,,,,,,,,,,10%
+Quality Sharpening Stone,Power,2%,Precision,Power,2%,Ferocity,,,,,,,,,,,,,,,10%
+Thesis on Calculated Accuracy,,,,,,,,,,120,Precision,,,,,,,,,,10%
+Thesis on Calculated Malice,,,,,,,,,,120,Condition Damage,,,,,,,,,,10%
+Thesis on Calculated Strength,,,,,,,,,,120,Power,,,,,,,,,,10%
+Writ of Calculated Accuracy,,,,,,,,,,120,Precision,,,,,,,,,,10%
+Writ of Calculated Malice,,,,,,,,,,120,Condition Damage,,,,,,,,,,10%
+Writ of Calculated Strength,,,,,,,,,,120,Power,,,,,,,,,,10%
+Potent Hardened Sharpening Stone,Power,2%,Precision,Power,4%,Ferocity,,,,,,,,,,,,,,,10%
+Hardened Sharpening Stone,Power,2%,Precision,Power,4%,Ferocity,,,,,,,,,,,,,,,10%
+Quality Maintenance Oil,Concentration,2%,Precision,Concentration,4%,Healing,,,,,,,,,,,,,,,10%
+Quality Tuning Crystal,Condition Damage,2%,Precision,Condition Damage,5%,Expertise,,,,,,,,,,,,,,,10%
+Writ of Studied Speed,,,,,,,,,,,,,,,,,,,,15%,10%
+Thesis on Learned Accuracy,,,,,,,,,,160,Precision,,,,,,,,,,10%
+Thesis on Learned Malice,,,,,,,,,,160,Condition Damage,,,,,,,,,,10%
+Thesis on Speed,,,,,,,,,,,,,,,,,,,,15%,10%
+Thesis on Learned Strength,,,,,,,,,,160,Power,,,,,,,,,,10%
+Writ of Learned Strength,,,,,,,,,,160,Power,,,,,,,,,,10%
+Writ of Learned Malice,,,,,,,,,,160,Condition Damage,,,,,,,,,,10%
+Writ of Learned Accuracy,,,,,,,,,,160,Precision,,,,,,,,,,10%
+Compact Hardened Sharpening Stone,Power,2%,Vitality,Power,2%,Toughness,,,,,,,,,,,,,,,
+Compact Quality Maintenance Oil,Concentration,2%,Vitality,Concentration,2%,Toughness,,,,,,,,,,,,,,,
+Compact Quality Tuning Crystal,Condition Damage,2%,Vitality,Condition Damage,2%,Toughness,,,,,,,,,,,,,,,
+Corsair Sharpening Stone,Power,3%,Toughness,Expertise,3%,Toughness,,,,,,,,,,,,,,,10%
+Corsair Tuning Crystal,Condition Damage,3%,Toughness,Expertise,3%,Toughness,,,,,,,,,,,,,,,10%
+Enhanced Lucent Oil,Concentration,6%,Condition,Concentration,3%,Precision,,,,,,,,,,,,,,,10%
+Flask of Pumpkin Oil,,,,,,,,30%,,,,,,,,,,,,,10%
+Holographic Super Apple,Condition Damage,8%,Concentration,Concentration,3%,Precision,,,,,,,,,,,,,,,10%
+Holographic Super Cheese,Power,8%,Concentration,Concentration,3%,Precision,,,,,,,,,,,,,,,10%
+Holographic Super Drumstick,Healing Power,8%,Concentration,Concentration,3%,Precision,,,,,,,,,,,,,,,10%
+Lump of Crystallized Nougat,,,,,,,,30%,,,,,,,,,,,,,10%
+Corsair Maintenance Oil,Concentration,3%,Toughness,Expertise,3%,Toughness,,,,,,,,,,,,,,,10%
+Magnanimous Maintenance Oil,Concentration,3%,Vitality,Concentration,3%,Toughness,,,,,,,,,,,,,,,10%
+Magnanimous Sharpening Stone,Power,3%,Vitality,Power,3%,Toughness,,,,,,,,,,,,,,,10%
+Magnanimous Tuning Crystal,Condition Damage,3%,Vitality,Condition Damage,3%,Toughness,,,,,,,,,,,,,,,10%
+Maintenance Oil Station,Concentration,3%,Precision,Concentration,6%,Healing,,,,,,,,,,,,,,,10%
+Bountiful Maintenance Oil Station,,,,,,,,,,,,0.6%,Healing,100,Healing,0.8%,Healing,100,Concentration,,10%
+Magnanimous Maintenance Oil Station,Concentration,3%,Vitality,Concentration,3%,Toughness,,,,,,,,,,,,,,,10%
+Master Maintenance Oil,Concentration,3%,Precision,Concentration,6%,Healing,,,,,,,,,,,,,,,10%
+Mist-Infused Maintenance Oil,,,,,,,,,,,,0.6%,Healing,100,Healing,0.8%,Healing,100,Concentration,,10%
+Furious Maintenance Oil,Concentration,3%,Precision,Healing Power,3%,Precision,,,,,,,,,,,,,,,10%
+Potent Master Maintenance Oil,Concentration,3%,Precision,Concentration,6%,Healing,,,,,,,,,,,,,,,10%
+Hylek Maintenance Oil,Concentration,3%,Precision,Concentration,6%,Healing,,,,,,,,,,,,,,,10%
+Bountiful Maintenance Oil,,,,,,,,,,,,0.6%,Healing,100,Healing,0.8%,Healing,100,Concentration,,10%
+Master Tuning Crystal,Condition Damage,3%,Precision,Condition Damage,8%,Expertise,,,,,,,,,,,,,,,10%
+Furious Tuning Crystal,Condition Damage,3%,Precision,Expertise,3%,Precision,,,,,,,,,,,,,,,10%
+Bountiful Tuning Crystal,Condition Damage,6%,Healing,Condition Damage,8%,Concentration,,,,,,,,,,,,,,,10%
+Potent Master Tuning Crystal,Condition Damage,3%,Precision,Condition Damage,8%,Expertise,,,,,,,,,,,,,,,10%
+Mist-Infused Master Tuning Crystal,Condition Damage,3%,Precision,Condition Damage,8%,Expertise,,,,,,,,,,,,,,,10%
+Krait Tuning Crystal,Condition Damage,3%,Precision,Condition Damage,8%,Expertise,,,,,,,,,,,,,,,10%
+Peppermint Oil,Concentration,3%,Precision,Concentration,6%,Healing,10%,,,,,,,,,,,,,,10%
+Potent Lucent Oil,Concentration,3%,Power,Concentration,3%,Precision,,,,,,,,,,,,,,,10%
+Writ of Masterful Speed,,,,,,,,,,,,,,,,,,,,25%,10%
+Sharpening Skull,,,,,,,,30%,,,,,,,,,,,,,10%
+Sharpening Stone Station,Power,3%,Precision,Power,6%,Ferocity,,,,,,,,,,,,,,,10%
+Karka Toughness Station,,,,,,,,,,,,,,,,,,,,,
+Demon-Slaying Station,,,,,,,,,,,,,,,,,,,,,10%
+Ogre Sharpening Stone,Power,3%,Precision,Power,6%,Ferocity,,,,,,,,,,,,,,,10%
+Mist-Infused Sharpening Stone,Power,3%,Precision,Power,6%,Ferocity,,,,,,,,,,,,,,,10%
+Superior Sharpening Stone,Power,3%,Precision,Power,6%,Ferocity,,,,,,,,,,,,,,,10%
+Furious Sharpening Stone,Power,3%,Precision,Ferocity,3%,Precision,,,,,,,,,,,,,,,10%
+Bountiful Sharpening Stone,Power,6%,Healing,Power,8%,Concentration,,,,,,,,,,,,,,,10%
+Potent Superior Sharpening Stone,Power,3%,Precision,Power,6%,Ferocity,,,,,,,,,,,,,,,10%
+Thesis on Masterful Accuracy,,,,,,,,,,200,Precision,,,,,,,,,,10%
+Thesis on Masterful Malice,,,,,,,,,,,,,,,,,,,,,10%
+Thesis on Studied Speed,,,,,,,,,,,,,,,,,,,,25%,10%
+Thesis on Masterful Strength,,,,,,,,,,200,Power,,,,,,,,,,10%
+Tin of Fruitcake,Power,3%,Precision,Power,6%,Ferocity,10%,,,,,,,,,,,,,,10%
+Toxic Maintenance Oil,Concentration,3%,Power,Concentration,6%,Condition,,,,,,,,,,,,,,,10%
+Toxic Sharpening Stone,Power,6%,Condition,Power,8%,Expertise,,,,,,,,,,,,,,,10%
+Toxic Tuning Crystal,Condition Damage,3%,Power,Condition Damage,3%,Precision,,,,,,,,,,,,,,,10%
+Tuning Crystal Station,Condition Damage,3%,Precision,Condition Damage,8%,Expertise,,,,,,,,,,,,,,,10%
+Magnanimous Tuning Crystal Station,Condition Damage,3%,Vitality,Condition Damage,3%,Toughness,,,,,,,,,,,,,,,10%
+Toxic Tuning Crystal Station,Condition Damage,3%,Power,Condition Damage,3%,Precision,,,,,,,,,,,,,,,10%
+Tuning Icicle,Condition Damage,3%,Precision,Condition Damage,8%,Expertise,10%,,,,,,,,,,,,,,10%
+Writ of Masterful Accuracy,,,,,,,,,,200,Precision,,,,,,,,,,10%
+Writ of Masterful Malice,,,,,,,,,,,,,,,,,,,,,10%
+Writ of Masterful Strength,,,,,,,,,,200,Power,,,,,,,,,,10%
+Decade Enhancement Station,,,,,,,10%,10%,10%,,,,,,,,,,,,10%
+Mists-Infused Magnanimous Maintenance Oil Station,Concentration,3%,Vitality,Concentration,3%,Toughness,,,,,,,,,,,,,,,10%
+Potion Of Karka Toughness,,,,,,,,,,,,,,,,,,,,,
+Mists-Infused Sharpening Stone Station,Power,3%,Precision,Power,6%,Ferocity,,,,,,,,,,,,,,,10%
+Mists-Infused Karka Toughness Station,,,,,,,,,,,,,,,,,,,,,
+Mists-Infused Toxic Tuning Crystal Station,Condition Damage,3%,Power,Condition Damage,3%,Precision,,,,,,,,,,,,,,,10%
