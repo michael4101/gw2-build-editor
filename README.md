@@ -21,8 +21,23 @@ For more information about this project's architecture and features, view the te
   </tr>
 </table>
 
-    
-## 1. Introduction 
+## Table of Contents
+- [1. Project Overview](#1-project-overview)
+- [2. Quickstart](#2-quickstart)
+  - [2a. Using Git](#2a-using-git)
+  - [2b. Without Git](#2b-without-git)
+  - [2c. Installing Dependencies (Scrapers only)](#2c-installing-dependencies-for-scrapers)
+  - [2d. Running a Scraper](#2d-running-a-scraper)
+- [3. Instructions (Quick)](#3-quick-instructions)
+- [4. Instructions (Detailed)](#4-detailed-instructions)
+  - [4a. Profession & Attribute Filters](#4a-selecting-profession-and-attribute-filters)
+  - [4b. Creating a Build](#4b-creating-a-build)
+  - [4c. Tuning & Final Results](#4c-tuning-and-final-results)
+- [5. Features](#5-features)
+- [6. Tools Used](#6-tools-used)
+- [7. Definitions](#7-definitions)
+
+## 1. Project Overview 
 
 This ongoing project is a character [Build](#build-definition) editor for Guild Wars 2, a popular Fantasy MMO (Massively-Multiplayer Online game) where a player's experience is largely guided by the [Profession](#profession-definition) they start with and the Build they create for it. The editor was built in Excel and Python scripts were used to scrape necessary data from the Guild Wars 2 Wiki to populate source tables.
 
@@ -38,16 +53,17 @@ This Build Editor functions as an advanced calculator which allows users to conv
 ### 2b. Without Git
 Click **Code -> Download ZIP** at the top-right of this page and extract the downloaded files.
 
-### 2c. Install Dependencies
-Open your terminal and navigate to the project directory:
+### 2c. Installing Dependencies for Scrapers
+Open your terminal, then navigate to the project directory and install the required third-party packages with the following commands:
 ```bash
 cd (project folder location)/gw2-build-editor
 pip install -r requirements.txt
 ```
 
-### 2d. Run any Scraper
+### 2d. Running a Scraper
+Run the following command in your terminal using the name of the desired web scraper, for example _fetch-utilities.py_:
 ```bash
-python scrapers/fetch-(component).py
+python scrapers/(scraper-name).py
 ```
 
 ## 3. Quick Instructions
@@ -55,7 +71,7 @@ python scrapers/fetch-(component).py
 <table>
   <tr>
     <td>
-      <b>1. Select a Profession</b><br></br>
+      <b>3a. Select a Profession</b><br></br>
       This determines which Build components are available.
     </td>
     <td align="center" valign="middle">
@@ -66,7 +82,7 @@ python scrapers/fetch-(component).py
   </tr>
   <tr>
     <td>
-      <b>2. Select an Attribute filter (optional)</b><br></br>
+      <b>3b. Select an Attribute filter (optional)</b><br></br>
       This narrows available choices towards a particular Build focus.
     </td>
     <td align="center" valign="middle">
@@ -77,7 +93,7 @@ python scrapers/fetch-(component).py
   </tr>
   <tr>
     <td>
-      <b>3.Create a Build</b><br></br>
+      <b>3c. Create a Build</b><br></br>
       Select equipment, [Traits](#trait-definition) and other components from the available drop-down menus.
     </td>
     <td align="center" valign="middle">
@@ -88,7 +104,7 @@ python scrapers/fetch-(component).py
   </tr>
   <tr>
     <td>
-      <b>4. Configure Traits</b><br></br>
+      <b>3d. Configure Traits</b><br></br>
       Use the _Trait Configuration_ sheet to toggle active states and adjust stack counts where applicable.
     </td>
     <td align="center" valign="middle">
@@ -99,7 +115,7 @@ python scrapers/fetch-(component).py
   </tr>
   <tr>
     <td>
-      <b>5. Review the Results</b><br></br>
+      <b>3e. Review the Results</b><br></br>
       Final Attribute totals and derived Attributes. 
     </td>
     <td align="center" valign="middle">
@@ -117,7 +133,7 @@ The main Editor is split into two sheets, _Build Configuration_ and _Trait Confi
 To make a selection, click on any field containing italic text and choose an item from the drop-down list that appears. If the text is missing, these fields can also be identified by their background colour - see the legend on the right-side of the Build Configuration sheet. If the selected item is a Build component, its Attribute bonus (if any) will appear beside it in the appropriate column of the adjoining table.  
 
 
-### 4a. Selecting Profession and Attribute Filter 
+### 4a. Selecting Profession and Attribute Filters
 
 First, choose the Profession in the top-left corner. This is important, as a character's Profession determines what they have access to across several core Build components, including Specialisations and Traits. Selecting a Profession will limit options based on what that Profession has access to.
 
@@ -148,7 +164,7 @@ Calculations that depend on additional combat variables, such as weapon damage, 
 <table>
   <tr>
     <td width="50%">
-      <b>Streamlined UX</b><br></br>
+      <b>5a. Streamlined UX</b><br></br>
       Attribute bonuses and totals are calculated automatically with minimal user input. The interface is clean and easy to read.
     </td>
     <td align="center" valign="middle" width="50%">
@@ -159,7 +175,7 @@ Calculations that depend on additional combat variables, such as weapon damage, 
   </tr>
   <tr>
     <td>
-      <b>Contextual UI Filtering</b><br></br>
+      <b>5b. Contextual UI Filtering</b><br></br>
       Available options are filtered to be compatible with parent field selections, including character Profession and bonus Attribute filtering.
     </td>
     <td align="center" valign="middle">
@@ -170,7 +186,7 @@ Calculations that depend on additional combat variables, such as weapon damage, 
   </tr>
   <tr>
     <td>
-      <b>User Alerts</b><br></br>
+      <b>5c. User Alerts</b><br></br>
       Fields containing selections which are incompatible or may require further attention are highlighted.
     </td>
     <td align="center" valign="middle">
@@ -181,7 +197,7 @@ Calculations that depend on additional combat variables, such as weapon damage, 
   </tr>
   <tr>
     <td>
-      <b>Traceability</b><br></br>
+      <b>5d. Traceability</b><br></br>
       Selected components are highlighted in their source tables.
     </td>
     <td align="center" valign="middle">
@@ -192,7 +208,7 @@ Calculations that depend on additional combat variables, such as weapon damage, 
   </tr>
   <tr>
     <td>
-      <b>Complex Bonus Resolution</b><br></br>
+      <b>5e. Complex Bonus Resolution</b><br></br>
       Component bonus values are solved in resolution modules according to their bonus type(s) and aggregated in the main interface.
     </td>
     <td align="center" valign="middle">
