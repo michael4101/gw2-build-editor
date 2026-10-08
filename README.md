@@ -1,6 +1,6 @@
 # Guild Wars 2 Build Editor 
 
-This document uses some language in a context unique to Guild Wars 2 and video games more broadly. To aid in reader comprehension, terms used in this way are explained under [Definitions](#definitions) and can quickly be found by clicking these words the first time they appear in the text.
+This document uses some language in a context unique to Guild Wars 2 and video games more broadly. To aid in reader comprehension, terms used in this way are explained under [Definitions](#7.-definitions) and can quickly be found by clicking these words the first time they appear in the text.
 
 For more information about this project's architecture and features, view the technical document linked below:<br></br>
 
